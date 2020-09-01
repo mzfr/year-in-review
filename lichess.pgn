@@ -1,0 +1,2778 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/oKv850YR"]
+[Date "2020.08.15"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.08.15"]
+[UTCTime "19:20:23"]
+[WhiteElo "1253"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ne5 f6 4. Nc4 e5 5. d3 exd3 6. Qxd3 Qxd3 7. cxd3 Bb4+ 8. Bd2 Bxd2+ 9. Ncxd2 Ne7 10. Be2 Bf5 11. O-O Nbc6 12. Nc3 O-O-O 13. a3 Bxd3 14. Bxd3 Rxd3 15. Nf3 Rhd8 16. Rad1 Rxd1 17. Nxd1 Rd3 18. Nc3 Nd4 19. Nxd4 exd4 20. Rc1 dxc3 21. bxc3 Nf5 22. h3 Nd6 23. g4 Ne4 24. f3 Ng3 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/G1wn62CS"]
+[Date "2020.08.14"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "0-1"]
+[UTCDate "2020.08.14"]
+[UTCTime "10:13:20"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Bb4 7. e5 c5 8. Qe3 Nd5 9. Qd3 Nxc3 10. bxc3 Ba5 11. Ba3 f6 12. exf6 gxf6 13. Be2 Rg8 14. O-O Rg7 15. c4 d6 16. Qe3+ Qe7 17. Qxe7+ Rxe7 18. Bh5+ Kd7 19. Rfe1 Rxe1+ 20. Rxe1 Kd8 21. Rd1 Bd7 22. Rxd6 Rc8 23. Bg4 Rc6 24. Rxd7+ Kc8 25. Rxh7+ Kb8 26. Rh8+ Rc8 27. Bxc8 b6 28. Bd7+ Kb7 29. Bb5 Bd2 30. Rh7+ Kb8 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/6M5PcYrc"]
+[Date "2020.08.14"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.08.14"]
+[UTCTime "10:03:08"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nb5 e5 4. d3 Nf6 5. a4 a5 6. Nf3 Bd7 7. Nxe5 Bc5 8. Nxd7 Nbxd7 9. g3 Ne5 10. Bf4 Bd6 11. Bxe5 Bxe5 12. Be2 c6 13. Na3 b5 14. axb5 cxb5 15. Nxb5 Qb6 16. Nc3 Qxb2 17. Na4 Qb4+ 18. c3 dxc3 19. O-O c2 20. Qc1 Rc8 21. Bg4 Bb2 22. Qxb2 Qxb2 23. Nxb2 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/OSDGudYH"]
+[Date "2020.08.14"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "0-1"]
+[UTCDate "2020.08.14"]
+[UTCTime "09:58:50"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d5 7. exd5 Nxd5 8. Nxd5 Be6 9. c4 c6 10. Nf6+ gxf6 11. Qxd8+ Rxd8 12. Bf4 Rg8 13. g3 Bd6 14. h4 Bxf4 15. gxf4 f5 16. Bh3 h5 17. Ke2 Rg2 18. Bxg2 Bxc4+ 19. Ke1 Rd7 20. Rc1 Re7+ 21. Kd2 Bxa2 22. Rce1 Kf8 23. Rxe7 Kxe7 24. Re1+ Kd7 25. Kc3 Be6 26. Kb4 b6 27. Bxc6+ Kc7 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/jYlAY6vM"]
+[Date "2020.08.14"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.08.14"]
+[UTCTime "09:55:31"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 h6 5. Ngxe4 Nxe4 6. Nxe4 e5 7. f3 f6 8. c3 Nc6 9. Bb5 Bd7 10. Bxc6 Bxc6 11. d4 a6 12. O-O Bb5 13. Re1 c6 14. b3 a5 15. a4 Ba6 16. Nc5 b6 17. Nd3 b5 18. axb5 Bxb5 19. c4 Qxd4+ 20. Kh1 Qxa1 21. Bb2 Qxd1 22. Rxd1 Ba6 23. h3 Bd6 24. Re1 O-O 25. b4 axb4 26. Re4 Bxc4 27. Rxc4 Ra1+ 28. Kh2 Ra2 29. Ba1 Rf2 30. Rg4 Bc5 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/7IlRWKPH"]
+[Date "2020.08.14"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.08.14"]
+[UTCTime "09:52:04"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Nf6 4. Nc3 Nc6 5. Ngxe4 Nxe4 6. Nxe4 e6 7. f3 Be7 8. Bb5 Bd7 9. Bxc6 Bxc6 10. d3 O-O 11. O-O h5 12. Re1 g6 13. h3 a6 14. Bg5 Bxg5 15. Nxg5 Qxg5 16. a3 Rad8 17. b4 b5 18. c3 Qf5 19. Ra2 Bxf3 20. gxf3 Qg5+ 21. Kf1 Rd5 22. Ree2 Rf5 23. Rf2 Qg3 24. Rg2 Qxf3+ 25. Rgf2 Qh1+ 26. Ke2 Qxd1+ 27. Ke3 Rxf2 28. Kd4 Qd2 29. Rxd2 Rxd2 30. Ke4 Rd8 31. Ke3 R2xd3+ 32. Ke2 Rxc3 33. Kf2 Rxa3 34. Kg1 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/h318CiS1"]
+[Date "2020.08.13"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "0-1"]
+[UTCDate "2020.08.13"]
+[UTCTime "11:51:43"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Bd2 Bxc3 7. Bxc3 d6 8. Nxc6 bxc6 9. e5 Rb8 10. exf6 gxf6 11. b3 Qe7+ 12. Qe2 Qxe2+ 13. Bxe2 Be6 14. O-O Rg8 15. h3 Bd5 16. Bxf6 Rxg2+ 17. Kh1 Rg3+ 18. Kh2 Rg6 19. f3 Rxf6 20. Rg1 Kd7 21. Bc4 Bxc4 22. bxc4 Re8 23. Rg7 Re7 24. Rxh7 Rg6 25. Rd1 Re2+ 26. Kh1 Rgg2 27. Rxf7+ Kc8 28. Rf8+ Kb7 29. Rf7 Rh2+ 30. Kg1 Ref2 31. Rf5 c5 32. Rxc5 Rhg2+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/chd2LOJh"]
+[Date "2020.08.13"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.08.13"]
+[UTCTime "11:47:44"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. g3 Nf6 6. f4 Qc7 7. d3 e6 8. Kd2 Bb4 9. Ke1 Bxc3+ 10. bxc3 Bd7 11. Rb1 Bc8 12. Ba3 b5 13. c4 bxc4 14. dxc4 Ne4 15. Qd3 Nf6 16. Nf3 c5 17. Ng5 Ke7 18. Bg4 Rd8 19. Qe3 Nxg4 20. Qf3 Nf6 21. Kf2 h6 22. Nh7 Nxh7 23. Rhd1 Rxd1 24. Rxd1 Ba6 25. Qd3 Nc6 26. g4 Rd8 27. h4 Rxd3 28. g5 hxg5 29. Rxd3 gxh4 30. f5 Qf4+ 31. Ke2 Qe4+ 32. Re3 Qxf5 33. Re4 Qxe4+ 34. Kd2 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/NAXtlai6"]
+[Date "2020.08.13"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.08.13"]
+[UTCTime "11:44:10"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. e5 Ng4 8. exd6 cxd6 9. Be2 Qg5 10. f3 Nf6 11. Bxg5 h6 12. Bxf6 gxf6 13. Qxf6 Rg8 14. Qh8 Rxh8 15. Bc4 Bf5 16. O-O-O Rc8 17. Bb5+ Kd8 18. Rxd6+ Bxd6 19. Nd5 Re8 20. Nf6 Re6 21. Nh5 Rc5 22. Bd3 Bxd3 23. Kd2 Rce5 24. Kxd3 Re3+ 25. Kd2 Re2+ 26. Kd3 Bc5 27. Kc4 R6e5 28. Ng3 Rh5 29. Nxh5 Re5 30. Ng7 f6 31. Rd1+ Ke7 32. Nf5+ Ke6 33. Ne3 Ke7 34. g4 Rxe3 35. h4 Bd4 36. Kxd4 Re6 37. Kd5 f5 38. Rd4 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/dXbyihf4"]
+[Date "2020.08.13"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.08.13"]
+[UTCTime "11:42:36"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 d6 5. dxe5 dxe5 6. Nxe5 Nxe5 7. Qxd8+ Kxd8 8. Bf4 Bb4 9. O-O-O+ Ke8 10. Bxe5 Bg4 11. f3 Be6 12. Bd3 Bxc3 13. bxc3 Rd8 14. Kb1 Kf8 15. Rhe1 h5 16. h3 g6 17. h4 c5 18. Bb5 b6 19. Bc6 Rxd1+ 20. Rxd1 Kg7 21. Rd6 Re8 22. Bxe8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/C05DqOYX"]
+[Date "2020.08.13"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.08.13"]
+[UTCTime "11:40:48"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. f3 dxe4 3. fxe4 e5 4. d3 Nf6 5. Nc3 Nc6 6. Nf3 Nd4 7. Be3 Nxf3+ 8. Ke2 Bb4 9. a3 Bxc3 10. bxc3 Nxh2 11. Rxh2 O-O 12. Bg5 Ng4 13. Rh3 Nh2 14. Rxh2 Qxg5 15. Ke1 Bg4 16. Qd2 Rad8 17. Qxg5 f5 18. Qxg4 fxg4 19. Rh4 g5 20. Rxg4 c6 21. Rxg5+ Kf7 22. Rf5+ Ke6 23. Rxf8 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/Ho6CqucD"]
+[Date "2020.08.13"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.08.13"]
+[UTCTime "11:35:36"]
+[WhiteElo "1629"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 Nc6 3. Nc3 d5 4. exd5 exd5 5. d4 Nf6 6. Bg5 Be7 7. Bxf6 Bxf6 8. Bd3 Bg4 9. Be2 O-O 10. h3 Bxf3 11. Bxf3 h6 12. O-O Qe8 13. Re1 Qd7 14. Bxd5 Rae8 15. Rxe8 Rxe8 16. Bf3 a6 17. d5 Nb4 18. a3 Bxc3 19. bxc3 Nxd5 20. Bxd5 b6 21. c4 c5 22. Qd3 g6 23. Bxf7+ Kxf7 24. Qxd7+ Re7 25. Qd6 Re6 26. Qc7+ Re7 27. Qxb6 g5 28. Qxc5 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/is9mjvx9"]
+[Date "2020.07.29"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.29"]
+[UTCTime "16:04:00"]
+[WhiteElo "1205"]
+[BlackElo "1629"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 c6 5. d4 Qc7 6. Bf4 Qd7 7. d5 cxd5 8. Nxd5 e6 9. Ndc3 Nc6 10. Qxd7+ Bxd7 11. Rd1 O-O-O 12. Nb5 Bb4+ 13. c3 Ba5 14. Nd6+ Kb8 15. Nxf7+ Ka8 16. Nxh8 Nh6 17. b4 e5 18. Bg3 Bf5 19. bxa5 Rxh8 20. f4 e4 21. Nd4 Bg4 22. Be2 Ne7 23. Bxg4 Nxg4 24. O-O Ne3 25. Rfe1 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/5Mw9UO3R"]
+[Date "2020.07.29"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.29"]
+[UTCTime "15:56:22"]
+[WhiteElo "1512"]
+[BlackElo "1253"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d5 7. e5 Nd7 8. Bb5 c6 9. Ba4 Bc5 10. Qd1 Nxe5 11. O-O O-O 12. Re1 Re8 13. Be3 Bb4 14. a3 Bxc3 15. bxc3 Qe7 16. f4 Bg4 17. Qd2 Nf3+ 18. Kh1 Nxd2 19. Bxd2 Qxe1+ 20. Rxe1 Rxe1+ 21. Bxe1 Re8 22. h3 Rxe1+ 23. Kh2 Bf3 24. gxf3 Re2+ 25. Kg3 Rxc2 26. Kh4 Rxc3 27. Kg5 Rxa3 28. Bc2 Rxf3 29. Bd1 Rxh3 30. Bg4 Rg3 31. f5 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/1GdSSO5I"]
+[Date "2020.07.29"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.29"]
+[UTCTime "15:47:27"]
+[WhiteElo "1629"]
+[BlackElo "1205"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 e5 4. Nc3 Nf6 5. Bg5 Be7 6. Bxf6 Bxf6 7. Nd5 Be7 8. d4 cxd4 9. Bb5 Qa5+ 10. Nc3 O-O 11. b4 Qb6 12. Bxc6 dxc6 13. Ne2 Qxb4+ 14. Qd2 Qb2 15. Qd1 Qb4+ 16. Qd2 Qd6 17. O-O Rd8 18. Rfd1 Bg4 19. Qd3 Qh6 20. h3 Bxf3 21. Qxf3 Rd6 22. g4 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/JxlzdHy1"]
+[Date "2020.07.29"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.29"]
+[UTCTime "15:37:11"]
+[WhiteElo "1629"]
+[BlackElo "1205"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d5 4. d3 Nc6 5. exd5 Nxd5 6. Nxd5 Qxd5 7. Be2 Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 O-O 10. c4 Qa5 11. Qxa5 Nxa5 12. b4 Nc6 13. b5 Nd4 14. Nxd4 exd4 15. a4 Re8 16. f4 c5 17. Kf2 h6 18. Rhe1 Re7 19. Bf3 Bd7 20. Rxe7 Re8 21. Rxd7 b6 22. Rxa7 Re3 23. Ra8+ Kh7 24. Be4+ 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/obNjEHfB"]
+[Date "2020.07.29"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.29"]
+[UTCTime "15:33:18"]
+[WhiteElo "1205"]
+[BlackElo "1629"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 c6 5. d4 Qc7 6. Nf3 Nf6 7. O-O Bg4 8. Bg5 Bxf3 9. Bxf3 h6 10. Bxf6 exf6 11. Qe2+ Qe7 12. Qxe7+ Bxe7 13. Rfe1 f5 14. Re2 Nd7 15. Rae1 O-O-O 16. Rxe7 Rhe8 17. Rxe8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/08Wjr8GH"]
+[Date "2020.07.29"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.29"]
+[UTCTime "15:30:46"]
+[WhiteElo "1512"]
+[BlackElo "1253"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nxe4 4. Nxe4 d6 5. d3 Bg4 6. Be2 Bxf3 7. Bxf3 Nc6 8. Bg5 Be7 9. Bxe7 Qxe7 10. Nc3 O-O 11. Bxc6 bxc6 12. O-O Rab8 13. b3 c5 14. Re1 Rfe8 15. a4 a5 16. Nb5 c6 17. Na3 c4 18. Nxc4 d5 19. Nxa5 Qb4 20. Nxc6 Re6 21. Nxb4 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/jomGiaVb"]
+[Date "2020.07.22"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "0-1"]
+[UTCDate "2020.07.22"]
+[UTCTime "14:58:55"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C47"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d5 7. Qd2 c6 8. Bd3 d4 9. Ne2 Bc5 10. O-O O-O 11. Qf4 Re8 12. e5 Nh5 13. Bxh7+ Kf8 14. Qe4 g6 15. e6 Qf6 16. Bh6+ Ke7 17. exf7+ Kxf7 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/u5iJwyBD"]
+[Date "2020.07.22"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.22"]
+[UTCTime "14:54:47"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d4 dxe4 3. c3 Nf6 4. f3 exf3 5. gxf3 e5 6. dxe5 Qxd1+ 7. Kxd1 Nh5 8. Bb5+ Bd7 9. Bxd7+ Nxd7 10. Be3 Nxe5 11. Ne2 Nxf3 12. Rf1 Ne5 13. Nd2 c5 14. Nf3 Nxf3 15. Rxf3 b6 16. Bg5 Rd8+ 17. Kc1 Be7 18. Nf4 O-O 19. Nxh5 Bxg5+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/caUeqXHy"]
+[Date "2020.07.22"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.22"]
+[UTCTime "14:49:26"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. f3 Nf6 5. Nh3 Bxh3 6. gxh3 g6 7. Qe2 Bh6 8. Rg1 O-O 9. d3 Bxc1 10. Rxc1 Nc6 11. f4 e6 12. Bg2 Nd4 13. Qe3 Nf5 14. Qf2 Qd4 15. Qxd4 Nxd4 16. Rf1 Nd5 17. Nxd5 exd5 18. Bxd5 Rae8+ 19. Kd1 Re3 20. Re1 Rxe1+ 21. Kxe1 Re8+ 22. Kf1 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/DEL86uNp"]
+[Date "2020.07.22"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.22"]
+[UTCTime "14:43:54"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Nf6 5. d4 Bg4 6. Be2 e6 7. O-O Bb4 8. h3 Bxf3 9. Bxf3 Bd6 10. Be3 O-O 11. Qd3 c5 12. Nb5 cxd4 13. Bxd4 a5 14. Bxf6 Qxf6 15. Qxd6 Rd8 16. Qg3 Rd5 17. Bxd5 exd5 18. f4 Nc6 19. h4 Nd4 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/6hxCUqvp"]
+[Date "2020.07.22"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "0-1"]
+[UTCDate "2020.07.22"]
+[UTCTime "14:39:49"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 d6 3. d3 Bg4 4. Be2 Be7 5. h3 Bxf3 6. Bxf3 Nf6 7. Nc3 O-O 8. Bg5 h6 9. Bxf6 Bxf6 10. O-O Nc6 11. Nd5 Bg5 12. g3 Na5 13. h4 Bf6 14. Nxf6+ Qxf6 15. Bh5 g6 16. Qf3 Qxf3 17. Bxf3 c5 18. c4 Rae8 19. b3 b6 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/8zUwFxmL"]
+[Date "2020.07.22"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "0-1"]
+[UTCDate "2020.07.22"]
+[UTCTime "14:35:21"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 d6 4. d4 exd4 5. Qxd4 Nc6 6. Qd1 Bg4 7. e5 dxe5 8. Qxd8+ Kxd8 9. Be2 Ke8 10. O-O Bb4 11. h3 Bxf3 12. Bxf3 Kd8 13. a3 Bc5 14. b4 Be7 15. Nd5 Bd6 16. Nxf6 gxf6 17. Bd5 b6 18. Bxf7 Rf8 19. Be3 Rxf7 20. Rad1 e4 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/cIYhKa6t"]
+[Date "2020.07.20"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.20"]
+[UTCTime "16:49:35"]
+[WhiteElo "1512"]
+[BlackElo "1332"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd7 4. d4 Nc6 5. Bb5 Nf6 6. Bxc6 Qxc6 7. Nge2 Bg4 8. f3 Bh5 9. O-O O-O-O 10. Nf4 e5 11. d5 Qd6 12. Nxh5 Nxh5 13. Nb5 Qxd5 14. Qxd5 Rxd5 15. Nc3 Rd6 16. Be3 Rh6 17. Rad1 Bd6 18. Bxh6 gxh6 19. Rd5 Rg8 20. Rfd1 Nf4 21. Rxd6 Nxg2 22. Rd8+ Rxd8 23. Rxd8+ Kxd8 24. Kxg2 Ke7 25. Nb5 Kf8 26. Nxa7 Kg7 27. Nc8 Kf6 28. Na7 Ke7 29. Nb5 Ke8 30. Nc3 Kf8 31. f4 Kg7 32. fxe5 Kf8 33. e6 Ke7 34. exf7 Ke6 35. Nb5 Kxf7 36. Nxc7 Ke7 37. Nb5 Kd8 38. Nc3 Kc7 39. Ne4 Kb6 40. Nf6 Kc6 41. Nxh7 Kc7 42. Nf6 Kc6 43. h4 Kb6 44. a4 Kc6 45. b3 Kd6 46. c4 Kc7 47. a5 Kb8 48. c5 Kc7 49. b4 Kc6 50. Ne4 Kb5 51. Nf6 Kxb4 52. c6 Kxa5 53. cxb7 Kb6 54. b8=Q+ Kc6 55. Qc8+ Kd6 56. Qf8+ Ke6 57. Ne4 Ke5 58. Qxh6 Kxe4 59. h5 Kf5 60. Qg6+ Kf4 61. h6 Ke5 62. h7 Kd5 63. h8=Q Kc4 64. Qhh5 Kd4 65. Qh3 Ke5 66. Qgg4 Kf6 67. Qf4+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/wmdbjmyr"]
+[Date "2020.07.20"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.07.20"]
+[UTCTime "16:45:25"]
+[WhiteElo "1512"]
+[BlackElo "1332"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Bb5+ c6 5. Ba4 Nd7 6. Nf3 Nc5 7. Bb3 Nxb3 8. axb3 e6 9. O-O Bb4 10. Re1 Be7 11. d4 Nf6 12. Ng5 O-O 13. Bf4 Bd6 14. Qd3 Bxf4 15. Re4 Bxg5 16. Rg4 h6 17. Rg3 Bd7 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/opJRZmK1"]
+[Date "2020.07.20"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.20"]
+[UTCTime "16:41:27"]
+[WhiteElo "1332"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. c3 d5 2. d4 Nc6 3. Nf3 e6 4. e3 Nf6 5. Qa4 Bd7 6. Nbd2 Ne5 7. Bb5 Nxf3+ 8. Nxf3 Bxb5 9. Qxb5+ c6 10. Qa4 b5 11. Qd1 a6 12. Ng5 Qe7 13. Bd2 h6 14. O-O hxg5 15. b4 Ne4 16. Qf3 Nxd2 17. Qe2 Nxf1 18. Qxf1 g4 19. Qd1 Qh4 20. Qd2 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/YVo7qLlJ"]
+[Date "2020.07.20"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.20"]
+[UTCTime "16:39:06"]
+[WhiteElo "1332"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 e6 4. Nxe4 Nc6 5. d4 Qxd4 6. Qxd4 Nxd4 7. c3 Nc2+ 8. Ke2 Nxa1 9. Nbd2 c6 10. Kd1 Bc5 11. Nxc5 Nf6 12. Ndb3 Nxb3 13. Nxb3 b5 14. c4 bxc4 15. Bxc4 c5 16. Nxc5 Bd7 17. Bb5 Bxb5 18. Nb3 a6 19. Kd2 Bc4 20. Re1 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/J9xdbWah"]
+[Date "2020.07.18"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.07.18"]
+[UTCTime "16:08:32"]
+[WhiteElo "1512"]
+[BlackElo "1338"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 Nf6 5. Nc3 e6 6. Bb5+ Bd7 7. Ba4 Bxa4 8. Nxa4 Nxe4 9. f3 Nf2+ 10. Ke2 Nxh1 11. Nh3 Nc6 12. Bg5 f6 13. Be3 Be7 14. Rxh1 O-O 15. Rd1 Rad8 16. Rxd8 Bxd8 17. c3 Be7 18. Bxa7 Rd8 19. Bc5 b6 20. Bxe7 Re8 21. Bxf6 Ne7 22. Bxg7 Kxg7 23. Nf4 Rd8 24. Nxe6+ Kf7 25. Nxd8+ Kf6 26. Nb7 h6 27. Nac5 h5 28. Ne4+ Ke6 29. h4 Kd7 30. g3 Kc8 31. f4 Kxb7 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/loU2EgHk"]
+[Date "2020.07.18"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.07.18"]
+[UTCTime "16:00:19"]
+[WhiteElo "1512"]
+[BlackElo "1338"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Nf6 5. d4 Bg4 6. h3 Bxf3 7. Qxf3 Nc6 8. Be3 e6 9. O-O-O Bb4 10. Bd2 Bxc3 11. Bxc3 O-O 12. Bb5 Qd7 13. Bxc6 bxc6 14. a3 c5 15. dxc5 Qc8 16. c6 Rb8 17. Kb1 Rb6 18. Bxf6 Qb8 19. Be5 Rd8 20. Rxd8+ Qxd8 21. Rd1 Qc8 22. Rd7 h6 23. Qg4 Qe8 24. Rxc7 Rxc6 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/TkWCCv6C"]
+[Date "2020.07.18"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.18"]
+[UTCTime "15:55:12"]
+[WhiteElo "1338"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. Bg5 Bb4 8. Bd2 c5 9. Ne5 Bxe2 10. Nxe2 cxd4 11. Bxb4 Nc6 12. c3 dxc3 13. bxc3 Nxe5 14. f4 Qxd1+ 15. Rxd1 Nc4 16. O-O Rd8 17. a3 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/RIidbdio"]
+[Date "2020.07.17"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:23:00"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C20"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 d5 4. Nxe5 dxe4 5. Nc4 exd3 6. Bxd3 Bb4+ 7. Bd2 Bxd2+ 8. Qxd2 Be6 9. O-O O-O 10. c3 Ne4 11. Re1 Nxd2 12. Ncxd2 Qxd3 13. Nf3 Rd8 14. Na3 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/Mpotmm0w"]
+[Date "2020.07.17"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:22:28"]
+[WhiteElo "1428"]
+[BlackElo "1835"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/eAn2LjTf"]
+[Date "2020.07.17"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:11:28"]
+[WhiteElo "1512"]
+[BlackElo "1338"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 e6 3. e5 Nc6 4. d4 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Nge7 7. Nc3 O-O 8. Bb5 Bd7 9. O-O-O a6 10. Bxc6 Bxc6 11. Nf3 b5 12. Ne2 h6 13. c3 Rb8 14. b4 a5 15. a3 a4 16. Nh4 Bd7 17. g4 Rb6 18. f4 Qb8 19. g5 Rc6 20. gxh6 gxh6 21. Rhg1+ Ng6 22. Nxg6 Kg7 23. Ne7+ Kh7 24. Nxc6 Re8 25. Ng3 Rd8 26. Nh5 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/MVv794uP"]
+[Date "2020.07.17"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:08:45"]
+[WhiteElo "1338"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A01"]
+[Termination "Time forfeit"]
+
+1. b3 d5 2. g3 e5 3. Bg2 Nf6 4. Bb2 Nc6 5. e3 Bd6 6. d4 exd4 7. exd4 Qe7+ 8. Qe2 Qxe2+ 9. Nxe2 O-O 10. O-O Re8 11. Re1 Ng4 12. h3 Bb4 13. Bc3 Bxc3 14. Nexc3 Rxe1+ 15. Bf1 Ne3 16. Nd2 Rxa1 17. Kh2 Rxf1 18. fxe3 Rf2+ 19. Kg1 Rxd2 20. Kf1 Rxc2 21. Ne2 Bxh3+ 22. Kf2 Nb4 23. Kf3 Nd3 24. e4 Re8 25. exd5 Rexe2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/46mQ0mMb"]
+[Date "2020.07.17"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:05:45"]
+[WhiteElo "1338"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A01"]
+[Termination "Time forfeit"]
+
+1. b3 d5 2. Bb2 Nc6 3. g3 e5 4. Bg2 Nf6 5. Nf3 Ng4 6. Nxe5 Ngxe5 7. e3 f6 8. d3 Bb4+ 9. Nc3 Bxc3+ 10. Bxc3 O-O 11. Bxe5 Nxe5 12. d4 Nc6 13. O-O Re8 14. c3 b5 15. Rc1 a6 16. c4 bxc4 17. bxc4 Be6 18. cxd5 Bxd5 19. Ra1 Nb4 20. Qa4 Bxg2 21. Kxg2 Nd5 22. Kh1 Nc3 23. f4 Nxa4 24. Rac1 Nb2 25. Rfd1 Rxe3 26. Rd2 Rf3 27. Kg2 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Pm0naxlQ"]
+[Date "2020.07.17"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:02:49"]
+[WhiteElo "1512"]
+[BlackElo "1338"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 d6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nc3 Nc6 7. Nd5 Be6 8. c4 O-O 9. b3 Bxd5 10. cxd5 Nb4 11. Qc1 Bh4 12. g3 Be7 13. h4 h6 14. Bh3 c5 15. a3 Qa5 16. Qd2 Rac8 17. O-O Qc7 18. axb4 c4 19. bxc4 Qb6 20. b5 Rxc4 21. Qa2 Qxb5 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/ebtiJNDi"]
+[Date "2020.07.17"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.07.17"]
+[UTCTime "12:00:24"]
+[WhiteElo "1512"]
+[BlackElo "1338"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B06"]
+[Termination "Time forfeit"]
+
+1. e4 g6 2. d4 Bg7 3. c3 b6 4. Na3 Bb7 5. Nb5 Nc6 6. Be3 Nf6 7. f3 O-O 8. Ne2 d5 9. exd5 Qxd5 10. a4 Qc4 11. Nf4 Qe6 12. Nxe6 fxe6 13. Nxc7 e5 14. Nxa8 Bxa8 15. a5 Rd8 16. axb6 axb6 17. b4 Bb7 18. Qa4 Nd7 19. Bg5 Bf6 20. Bxf6 exf6 21. d5 b5 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/ebEOaVfH"]
+[Date "2020.07.17"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.07.17"]
+[UTCTime "11:55:47"]
+[WhiteElo "1512"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C41"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. Nxd4 d6 5. f3 c5 6. Nb3 Be7 7. Bg5 O-O 8. Bxf6 Bxf6 9. c4 Re8 10. Nc3 Bxc3+ 11. bxc3 Re7 12. a4 b6 13. a5 bxa5 14. Nxa5 Ba6 15. Nc6 Nxc6 16. Rxa6 Rb8 17. Rxc6 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/8vDK8jPr"]
+[Date "2020.07.17"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.17"]
+[UTCTime "11:52:19"]
+[WhiteElo "1500"]
+[BlackElo "1512"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 dxe4 3. dxe4 Qxd1+ 4. Kxd1 e5 5. Nf3 f6 6. Nc3 Nc6 7. Be3 Bg4 8. Bb5 Ne7 9. Bxc6+ bxc6 10. h3 Bxf3+ 11. gxf3 Ng6 12. Kd2 Bb4 13. Rae1 Bxc3+ 14. bxc3 O-O 15. Kc1 Rfd8 16. Rd1 Nh4 17. Rhe1 Ng2 18. Re2 Nxe3 19. Rxe3 Rxd1+ 20. Kxd1 Rd8+ 21. Rd3 Rxd3+ 22. cxd3 c5 23. a4 c6 24. c4 Kf7 25. h4 g5 26. Kd2 gxh4 27. Ke3 h3 28. f4 h2 29. Kf3 h1=Q+ 30. Kg3 Qh5 31. f5 Qg5+ 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/FQJkRtKe"]
+[Date "2020.07.13"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.13"]
+[UTCTime "13:45:52"]
+[WhiteElo "1156"]
+[BlackElo "1629"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. Nf3 Bg4 4. Be2 Nc6 5. Nc3 e6 6. d3 Bxf3 7. Bxf3 Nxe5 8. Be2 Nc6 9. O-O Nf6 10. Bg5 Be7 11. Be3 d4 12. Bd2 dxc3 13. Bxc3 O-O 14. Qe1 Nd4 15. Bxd4 cxd4 16. c3 dxc3 17. Qxc3 Nd5 18. Qd4 Bf6 19. Qg4 Qb6 20. Rab1 Bxb2 21. Bf3 Nc3 22. Be4 f5 23. Qh3 Nxb1 24. Rxb1 fxe4 25. Re1 Qxf2+ 26. Kh1 Qxe1# 0-1
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/A0ZW1dCJ"]
+[Date "2020.07.13"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.13"]
+[UTCTime "13:29:46"]
+[WhiteElo "1434"]
+[BlackElo "1639"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. d3 dxe4 3. Ne2 exd3 4. cxd3 Nc6 5. d4 e5 6. Be3 Nf6 7. Nbc3 Bd6 8. f4 exd4 9. Nxd4 Qe7 10. Nf5 Bxf5 11. Qd2 Bxf4 12. Bb5 Bxe3 13. Qe2 O-O 14. Qf3 Bg4 15. Nd5 Nxd5 16. Qxd5 Qb4+ 17. Kf1 Qxb2 18. Bd3 Qf2# 0-1
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/ud5Hpy6U"]
+[Date "2020.07.13"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.07.13"]
+[UTCTime "13:24:10"]
+[WhiteElo "1639"]
+[BlackElo "1434"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nc6 5. d5 Nb4 6. a3 Nxd5 7. Qxd5 Qxd5 8. Nxd5 e6 9. Nxc7+ Ke7 10. Nxa8 Nf6 11. Be3 b6 12. Nc7 Kd8 13. Nb5 Nd5 14. O-O-O Bd7 15. Nf3 g6 16. Ne5 Be8 17. c4 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/UMx1zpU1"]
+[Date "2020.07.06"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.07.06"]
+[UTCTime "14:16:37"]
+[WhiteElo "1835"]
+[BlackElo "1415"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/dzZGjOso"]
+[Date "2020.07.06"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.07.06"]
+[UTCTime "14:13:30"]
+[WhiteElo "1415"]
+[BlackElo "1835"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A40"]
+[Termination "Time forfeit"]
+
+1. d4 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/8POwagT5"]
+[Date "2020.07.06"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.07.06"]
+[UTCTime "13:42:00"]
+[WhiteElo "1156"]
+[BlackElo "1629"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 c5 5. Nf3 Nc6 6. Bg5 Nge7 7. g3 f6 8. Bh4 Bg4 9. Neg1 Qa5+ 10. Qd2 Qb6 11. O-O-O g5 12. Bxg5 fxg5 13. Qxg5 Rg8 14. Qh4 Nb4 15. Kb1 Qe6 16. b3 a5 17. Be2 a4 18. Kc1 Bh6+ 19. Qxh6 Qxh6+ 20. Rd2 axb3 21. cxb3 Rxa2 22. Kd1 Ra1# 0-1
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/WXEDsJAQ"]
+[Date "2020.06.30"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.06.30"]
+[UTCTime "13:53:49"]
+[WhiteElo "1639"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "900+4"]
+[ECO "C79"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 b5 7. Bb3 Nxe4 8. Bd5 Bb7 9. Bxe4 g6 10. Bd5 Qb8 11. d4 Ne7 12. Bxb7 Qxb7 13. dxe5 dxe5 14. Nxe5 Rd8 15. Qf3 Qxf3 16. Nxf3 Bg7 17. Re1 Bf6 18. Bg5 Bxg5 19. Nxg5 Rd7 20. Ne4 f5 21. Nf6+ Kd8 22. Nxd7 Kxd7 23. Rd1+ Ke6 24. Nd2 Rd8 25. Nf3 Rxd1+ 26. Rxd1 Nd5 27. Ng5+ Kd7 28. Rxd5+ Kc6 29. Rd8 h6 30. Nf7 g5 31. Nxh6 f4 32. Rg8 Kb6 33. Rxg5 c5 34. Rf5 b4 35. cxb4 cxb4 36. Rxf4 Kb5 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/TPY9lPg6"]
+[Date "2020.06.26"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.06.26"]
+[UTCTime "14:32:59"]
+[WhiteElo "1639"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "600+2"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nf6 3. f4 exf4 4. Bxf4 d6 5. Nc3 Bg4 6. Be2 Bxe2 7. Ngxe2 c5 8. Ng3 Nc6 9. Nd5 Rc8 10. Nxf6+ gxf6 11. Nf5 Rg8 12. g3 Nd4 13. Nxd4 cxd4 14. c4 dxc3 15. bxc3 Rxc3 16. Rc1 Ra3 17. Qc2 f5 18. O-O fxe4 19. Rfe1 Qb6+ 20. Be3 Qa6 21. Qc8+ Ke7 22. Rc7+ Kf6 23. Qd8+ Kg7 24. Qg5+ Kh8 25. Bd4+ Bg7 26. Qxg7+ Rxg7 27. Rc8# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/tr1wa71R"]
+[Date "2020.06.26"]
+[White "cmrade"]
+[Black "Naamtufaan"]
+[Result "1-0"]
+[UTCDate "2020.06.26"]
+[UTCTime "07:32:56"]
+[WhiteElo "1835"]
+[BlackElo "1431"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B52"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Nxd7 5. Nc3 Ngf6 6. d3 Ng4 7. h3 Nge5 8. Nxe5 dxe5 9. O-O Nf6 10. f4 c4 11. fxe5 Qd4+ 12. Kh1 Qxe5 13. d4 Qg3 14. Rf3 Qc7 15. e5 Ng8 16. d5 Qxe5 17. Bf4 Qh5 18. Nb5 Rd8 19. Nc7+ Kd7 20. Qe2 Rc8 21. Qxc4 e5 22. dxe6+ fxe6 23. Qxe6+ Kd8 24. Rd1+ Bd6 25. Qxd6# 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/cWYzHfOI"]
+[Date "2020.06.24"]
+[White "Naamtufaan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.06.24"]
+[UTCTime "03:20:17"]
+[WhiteElo "1500"]
+[BlackElo "1822"]
+[WhiteRatingDiff "-69"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. g4 d5 2. Bg2 Bxg4 3. Bf3 Bxf3 4. Nxf3 Nc6 5. b3 e5 6. Bb2 e4 7. Ne5 Qf6 8. Nxc6 Qxc6 9. d3 Bb4+ 10. Nd2 Nf6 11. Rg1 O-O-O 12. Rxg7 Rhg8 13. Rxf7 Rg1# 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/NquDC41T"]
+[Date "2020.06.15"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.06.15"]
+[UTCTime "07:32:43"]
+[WhiteElo "1808"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-72"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. e5 Ng8 3. d4 d5 4. c3 f6 5. Bd3 fxe5 6. Qh5+ g6 7. Bxg6+ hxg6 8. Qxh8 Nh6 9. Bxh6 Kd7 10. Nf3 Ke6 11. Qg8+ Kf6 12. Bg5+ Kf5 13. Qf7+ Ke4 14. Nxe5 Qd6 15. Qf3# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/jSw0sspl"]
+[Date "2020.06.14"]
+[White "hunter_ftw"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.06.14"]
+[UTCTime "20:14:21"]
+[WhiteElo "1500"]
+[BlackElo "1808"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nb5 a6 4. Na3 c5 5. Nf3 Nc6 6. Be2 e5 7. O-O Bd6 8. Nc4 Bc7 9. d3 h6 10. c3 Nf6 11. b4 b5 12. Ncd2 dxc3 13. Nb1 cxb4 14. Qb3 Be6 15. Qd1 O-O 16. a3 a5 17. axb4 axb4 18. Rxa8 Qxa8 19. d4 Nxd4 20. Nxd4 Rd8 21. Be3 exd4 22. Bxd4 Qxe4 23. f3 Qxd4+ 24. Qxd4 Rxd4 25. Bxb5 c2 26. Rc1 Rd1+ 27. Kf2 Bb6+ 28. Ke2 Rxc1 29. Nd2 Re1+ 30. Kd3 c1=Q 31. Nb3 Bf5# 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/yXYUUhic"]
+[Date "2020.06.12"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.06.12"]
+[UTCTime "20:16:57"]
+[WhiteElo "1808"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C65"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 bxc6 5. d3 d5 6. exd5 Bd6 7. dxc6 e4 8. dxe4 Nxe4 9. Nbd2 Nxd2 10. Qe2+ Ne4 11. Qxe4+ Qe7 12. Qxe7+ Kxe7 13. O-O Kf8 14. Rd1 h5 15. Bf4 Bf5 16. Bxd6+ cxd6 17. Nd4 g6 18. b4 a6 19. a4 Kg7 20. b5 axb5 21. axb5 Rxa1 22. Rxa1 Rb8 23. Nxf5+ gxf5 24. c7 Rc8 25. b6 f4 26. b7 Rxc7 27. b8=Q Rxc2 28. h3 h4 29. Ra8 Kf6 30. Qh8+ Kf5 31. Qh7+ Ke5 32. Qxc2 Ke6 33. Qe4+ Kd7 34. Qxf4 Ke6 35. Qxh4 Kd7 36. f4 Ke6 37. Qg4+ Kf6 38. f5 Ke5 39. h4 Kf6 40. h5 Ke5 41. h6 Kf6 42. h7 Ke5 43. h8=Q+ Kd5 44. Qhd4+ Kc6 45. Qf3+ Kd7 46. Ra7+ Ke8 47. Qa8# 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/WAxAOQ3P"]
+[Date "2020.06.12"]
+[White "cmrade"]
+[Black "ali7cinar"]
+[Result "1-0"]
+[UTCDate "2020.06.12"]
+[UTCTime "17:05:42"]
+[WhiteElo "1778"]
+[BlackElo "1634"]
+[WhiteRatingDiff "+30"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C80"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/sb7aDrne"]
+[Date "2020.06.04"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.06.04"]
+[UTCTime "08:03:10"]
+[WhiteElo "1415"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. e4 d5 2. d4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Nxf3 c6 6. Bc4 e6 7. O-O Be7 8. Bg5 O-O 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/zPpf3DdN"]
+[Date "2020.06.03"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1/2-1/2"]
+[UTCDate "2020.06.03"]
+[UTCTime "08:23:38"]
+[WhiteElo "1639"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "900+2"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d3 d5 3. Nc3 Nf6 4. Nf3 Bd6 5. e5 Bxe5 6. Nxe5 Nbd7 7. d4 Ne4 8. Nxe4 dxe4 9. c3 Nxe5 10. dxe5 Qxd1+ 11. Kxd1 O-O 12. Ke2 f6 13. f3 exf3+ 14. Kxf3 fxe5+ 15. Ke2 b6 16. Bg5 Rf5 17. Be3 Bb7 18. Rd1 Bc6 19. h3 Bb5+ 20. Ke1 c6 21. Bxb5 cxb5 22. g4 Rf3 23. Ke2 e4 24. Rdf1 Raf8 25. b4 a5 26. bxa5 bxa5 27. Bc5 R8f7 28. Rxf3 exf3+ 29. Kf2 g5 30. Re1 Rf6 31. Bd4 Rf4 32. Rxe6 Kf7 33. Rh6 b4 34. Be3 Rf6 35. Rxf6+ Kxf6 36. cxb4 axb4 37. Kxf3 h6 38. Bd2 b3 39. axb3 Kg6 40. b4 Kf6 41. b5 Ke7 42. b6 Kd7 43. Be3 Kc8 44. Kg3 Kb7 45. h4 gxh4+ 46. Kxh4 Kb8 47. Kh5 Kb7 48. Kxh6 Kb8 49. g5 Kb7 50. g6 Kb8 51. g7 Kb7 52. g8=Q Ka6 53. Qf7 Kb5 54. Qd7+ Ka6 55. Qa7+ Kb5 56. b7 Kc6 57. b8=Q Kd5 58. Qd8+ Ke4 59. Qa3 Kf5 60. Qd5+ Kg4 61. Bg5 1/2-1/2
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/jigK0Q47"]
+[Date "2020.06.02"]
+[White "Crow82"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.06.02"]
+[UTCTime "14:49:47"]
+[WhiteElo "1712"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C13"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 e6 3. d4 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Bxe7 Qxe7 7. Nxe4 dxe4 8. c3 c5 9. Bb5+ Nd7 10. Ne2 a6 11. Ba4 b5 12. Bc2 Bb7 13. O-O O-O 14. Ng3 Rad8 15. Bxe4 Nxe5 16. Bxb7 Qxb7 17. Qh5 Nc4 18. b3 Rd5 19. Qe2 Nb6 20. dxc5 Rxc5 21. Rac1 Qc6 22. Qd3 h6 23. Nh5 Rxh5 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/0JIs9xc5"]
+[Date "2020.06.02"]
+[White "lichess AI level 1"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.06.02"]
+[UTCTime "14:05:45"]
+[WhiteElo "?"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Ng3 f6 5. Bc4 Ne7 6. b4 Nec6 7. b5 Ne7 8. a4 c6 9. a5 a6 10. bxc6 Nexc6 11. Bd5 Bd7 12. c3 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/L2rt1mMw"]
+[Date "2020.06.02"]
+[White "lichess AI level 1"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.06.02"]
+[UTCTime "13:54:40"]
+[WhiteElo "?"]
+[BlackElo "1639"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 d5 2. h4 e6 3. Nc3 Nc6 4. Bf4 Nf6 5. e3 Bd6 6. Nf3 e5 7. Bxe5 Bxe5 8. dxe5 Nxe5 9. Qd4 Nc6 10. Qa4 Bd7 11. O-O-O O-O 12. Bb5 a6 13. Bd3 Ng4 14. Nxd5 Nxf2 15. Qf4 Nxh1 16. Qe4 Nf2 17. Nf6+ gxf6 18. Qxh7# 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/RaQNykjo"]
+[Date "2020.06.02"]
+[White "cmrade"]
+[Black "lichess AI level 2"]
+[Result "0-1"]
+[UTCDate "2020.06.02"]
+[UTCTime "12:10:32"]
+[WhiteElo "1639"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 d5 3. Nf3 Qd6 4. Nc3 Nf6 5. Be3 d4 6. Bxd4 exd4 7. e5 Qb6 8. Ne2 Ng8 9. Nexd4 c5 10. Nb3 Bg4 11. Be2 Nd7 12. d4 cxd4 13. Nfxd4 h5 14. f3 Be6 15. O-O Nxe5 16. Kh1 Rd8 17. c3 Nc6 18. Bb5 Rd7 19. Qe2 a6 20. Bxc6 bxc6 21. Rfd1 c5 22. Nc2 Be7 23. c4 Rxd1+ 24. Rxd1 Kf8 25. Qe3 Rh6 26. Ne1 Bxc4 27. Nd3 Rd6 28. Qe2 Rd5 29. Nf4 Bxe2 30. Nxd5 Qc6 31. Nd2 Bxd1 32. Nxe7 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/05GOXyZ6"]
+[Date "2020.06.02"]
+[White "cmrade"]
+[Black "hunter_ftw"]
+[Result "1-0"]
+[UTCDate "2020.06.02"]
+[UTCTime "09:01:47"]
+[WhiteElo "1778"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. e4 e5 2. d3 Nf6 3. Nf3 d6 4. Nc3 Nc6 5. Nd5 Be6 6. Nxf6+ gxf6 7. Bd2 Qd7 8. Qe2 O-O-O 9. c4 Nd4 10. Nxd4 exd4 11. g3 f5 12. Bg2 Re8 13. O-O c5 14. Rfe1 fxe4 15. Qxe4 Bf5 16. Qxe8+ Qxe8 17. Rxe8+ Kd7 18. Rae1 Bg7 19. R1e7# 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/R0L2kVem"]
+[Date "2020.06.02"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.06.02"]
+[UTCTime "08:45:31"]
+[WhiteElo "1156"]
+[BlackElo "1629"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Bb5+ c6 3. Bd3 dxe4 4. Bxe4 e6 5. d3 Be7 6. Nf3 Nf6 7. Bg5 h6 8. Bxf6 Bxf6 9. Ne5 Bxe5 10. Nc3 Qf6 11. Qf3 Qxf3 12. Bxf3 Bxc3+ 13. bxc3 O-O 14. O-O Nd7 15. d4 f5 16. Rfe1 Nb6 17. Bh5 Nc4 18. Rab1 Nd2 19. Rb4 Kh7 20. d5 cxd5 21. Rd4 Ne4 22. c4 Bd7 23. cxd5 Be8 24. dxe6 Bxh5 25. e7 Rfd8 26. Rxd8 Rxd8 27. h3 Re8 28. f3 Nc3 29. g4 Nd5 30. gxh5 Rxe7 31. Rxe7 Nxe7 32. f4 Nd5 33. c4 Ne3 34. c5 Nc2 35. c6 Nd4 36. cxb7 a6 37. b8=Q Nc6 38. Qd6 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/dYe7bD3j"]
+[Date "2020.06.01"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.06.01"]
+[UTCTime "19:25:49"]
+[WhiteElo "1441"]
+[BlackElo "1639"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C10"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d4 e6 3. Nc3 Nc6 4. Nf3 Nge7 5. Bg5 f6 6. Bd2 f5 7. Bb5 Bd7 8. exd5 Nxd4 9. Nxd4 Bxb5 10. Ndxb5 exd5 11. Bf4 Rc8 12. Nxa7 d4 13. Nxc8 dxc3 14. Qxd8+ Kxd8 15. Nxe7 cxb2 16. Rb1 Bxe7 17. Rxb2 g6 18. O-O Bf6 19. Rxb7 Kc8 20. Rfb1 Kd7 21. a4 Re8 22. a5 Ra8 23. Ra1 Bxa1 24. Rb5 c6 25. Rc5 Bc3 26. Rxc3 Rxa5 27. h3 Ra1+ 28. Kh2 Rf1 29. Rf3 Ke6 30. Re3+ Kf6 31. Rc3 Rxf2 32. Rxc6+ Kg7 33. Be5+ Kh6 34. Bg3 Re2 35. c4 Rc2 36. c5 Kg5 37. h4+ Kg4 38. Bd6 Kxh4 39. Ra6 Rc4 40. c6 Kh5 41. c7 Kg4 42. Ra8 Kh5 43. c8=Q Rh4+ 44. Kg1 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/N1YDmM1p"]
+[Date "2020.06.01"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2020.06.01"]
+[UTCTime "19:02:45"]
+[WhiteElo "1441"]
+[BlackElo "1639"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d4 e6 3. Nf3 dxe4 4. Ne5 Qe7 5. Nc3 f6 6. Ng4 Qd8 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. f3 exf3 10. Qxf3 c6 11. Bd2 e5 12. Qe3 Qe7 13. O-O-O exd4 14. Qxd4 Qc5 15. Be3 Qxd4 16. Bxd4 O-O-O 17. Bxa7 b6 18. Na4 Kb7 19. Bxb6 Nxb6 20. Rxd8 Be7 21. Rd4 Nh6 22. h3 Ra8 23. b3 Nf5 24. Re4 Ba3+ 25. Kd2 Ng3 26. Rhe1 Nxe4+ 27. Rxe4 Nxa4 28. bxa4 Rd8+ 29. Kc3 Bc1 30. Re1 Bg5 31. Re7+ Kb6 32. Rxg7 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/3BZT3ovx"]
+[Date "2020.06.01"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2020.06.01"]
+[UTCTime "18:35:14"]
+[WhiteElo "1639"]
+[BlackElo "1441"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 c6 3. Nf3 Nf6 4. Nc3 Bg4 5. Be2 Nbd7 6. h3 Bxf3 7. Bxf3 Ne5 8. Bg4 Nfxg4 9. hxg4 e6 10. f4 Ng6 11. f5 Nf4 12. Bxf4 exf5 13. gxf5 Qe7 14. Qh5 O-O-O 15. O-O-O d4 16. Ne2 Qb4 17. a3 Qc5 18. b4 g6 19. fxg6 Qxh5 20. Rxh5 Bg7 21. gxf7 Rhf8 22. Rxh7 Rxf7 23. c3 Rdd7 24. Nxd4 Rxf4 25. Ne6 Bxc3 26. Nxf4 Rxh7 27. Kc2 Be5 28. Ne2 Rh2 29. Rg1 b5 30. d4 Bh8 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/TmT60SAb"]
+[Date "2020.05.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.05.30"]
+[UTCTime "09:03:40"]
+[WhiteElo "1415"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 e5 5. dxe5 Qxe5+ 6. Be2 Bb4 7. Bd2 Bg4 8. h3 Bxe2 9. Qxe2 Qxe2+ 10. Ngxe2 Nc6 11. a3 Bd6 12. O-O-O O-O-O 13. Bf4 Bxf4+ 14. Nxf4 Nf6 15. Ncd5 Ne4 16. Rhf1 Rhe8 17. Ne3 Nd4 18. Nfd5 Ne2+ 19. Kb1 c6 20. Ne7+ Rxe7 21. Rxd8+ Kxd8 22. Rd1+ Kc7 23. Nf5 Nxf2 24. Rf1 Ne4 25. Nxe7 Nd2+ 26. Ka2 Nxf1 27. Nf5 g6 28. Ng7 Kd7 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/yzpB1zsL"]
+[Date "2020.05.30"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2020.05.30"]
+[UTCTime "08:46:30"]
+[WhiteElo "1629"]
+[BlackElo "1156"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C20"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. d3 Nc6 3. Nf3 Bb4+ 4. Nc3 Bxc3+ 5. bxc3 Nf6 6. Ba3 d6 7. c4 O-O 8. Bb2 Re8 9. h3 Bd7 10. Be2 Nb4 11. a3 Nc6 12. O-O Nd4 13. Bxd4 exd4 14. Nxd4 d5 15. cxd5 Ba4 16. Bf3 Qd6 17. Nf5 Red8 18. Nxd6 cxd6 19. Qd2 h6 20. Rfc1 Rac8 21. Ra2 b6 22. Qb4 a5 23. Qxa4 Nd7 24. Bg4 b5 25. Qxa5 Ne5 26. Bxc8 Rxc8 27. Qxb5 Kh7 28. Qb7 Rc5 29. Qb6 Rc8 30. Qxd6 f6 31. Qe7 Rc6 32. c4 Rc8 33. Rb1 Ra8 34. Qb7 Ra5 35. Qb6 Ra8 36. Rb5 Ra5 37. Rxa5 h5 38. Qd8 g6 39. Ra8 g5 40. Qd7+ 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/m4izlGhh"]
+[Date "2020.03.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2020.03.30"]
+[UTCTime "18:40:07"]
+[WhiteElo "1156"]
+[BlackElo "1629"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A00"]
+[Termination "Time forfeit"]
+
+1. g3 d5 2. Nh3 e6 3. f3 Nc6 4. d4 Nf6 5. e3 Bd6 6. c3 O-O 7. Na3 Bxa3 8. bxa3 a6 9. a4 Bd7 10. Ng5 h6 11. Nxf7 Rxf7 12. Ba3 e5 13. Rb1 Bc8 14. f4 Ne4 15. Bd3 Nxc3 16. Qc2 Nxb1 17. Qxb1 e4 18. Be2 Ne7 19. Bh5 Rf5 20. O-O Rxh5 21. g4 Rh4 22. g5 hxg5 23. fxg5 Rg4+ 24. Kf2 Rxg5 25. Rg1 Nf5 26. Bc1 Nxe3 27. Kxe3 Rxg1 28. Qc2 Qg5+ 29. Kf2 Qf6+ 30. Ke3 Qg5+ 31. Ke2 Rg2+ 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/Us8lm5JM"]
+[Date "2019.11.07"]
+[White "cmrade"]
+[Black "D4mianWayne"]
+[Result "1-0"]
+[UTCDate "2019.11.07"]
+[UTCTime "12:54:54"]
+[WhiteElo "1778"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 Na6 2. d3 f6 3. Nf3 Nh6 4. Nc3 Ng4 5. h3 Nh6 6. Be2 d6 7. a3 Bd7 8. g4 Nf7 9. Nh4 c6 10. b4 Rc8 11. f3 h6 12. Ng6 Ng5 13. Nxh8 Qb6 14. Bxg5 fxg5 15. Na4 Qb5 16. c3 Rd8 17. d4 Be6 18. Bxb5 cxb5 19. d5 Bd7 20. Nb2 b6 21. Ng6 Nc7 22. c4 bxc4 23. Nxc4 Bc8 24. Qa4+ Kf7 25. Nxf8 Rxf8 26. Qxa7 Rd8 27. Qxc7 Re8 28. Nxd6+ Kf8 29. Nxc8 Rxc8 30. Qxc8+ Kf7 31. Qe6+ Kf8 32. d6 exd6 33. Qxd6+ Kf7 34. e5 Kg8 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/sluVBW6f"]
+[Date "2019.11.02"]
+[White "D4mianWayne"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2019.11.02"]
+[UTCTime "07:21:33"]
+[WhiteElo "1500"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 d5 2. Na3 e6 3. g3 Nf6 4. Nb5 Bd7 5. b3 Bxb5 6. Bg2 c6 7. Nf3 Be7 8. a4 Ba6 9. Ng5 h6 10. Nh3 b5 11. axb5 cxb5 12. d3 Bb7 13. Bb2 a6 14. Bc3 d4 15. exd4 Bxg2 16. Rg1 Bxh3 17. Qf3 Qd5 18. Qxd5 Nxd5 19. Bd2 O-O 20. Ba5 Bb4+ 21. Kd1 Nc3+ 22. Kc1 Ne2+ 23. Kb2 Nxg1 24. Rxg1 Bxa5 25. b4 Bxb4 26. f4 Nc6 27. d5 exd5 28. f5 Bxf5 29. Rf1 Bh3 30. Rf4 g5 31. Rf2 Rfe8 32. Kb3 d4 33. Ka2 Be6+ 34. Kb2 Bg4 35. Kb3 Re2 36. Rxe2 Bxe2 37. c4 Bd1+ 38. Kb2 bxc4 39. dxc4 a5 40. c5 a4 41. g4 a3+ 42. Ka2 Bxg4 43. h3 Bxh3 44. Kb3 a2 45. Kc4 a1=Q 46. Kd5 Bg2+ 47. Kd6 d3 48. Kc7 d2 49. Kb6 d1=Q 50. Kb7 Qa7# 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/d7PJuerS"]
+[Date "2019.11.02"]
+[White "cmrade"]
+[Black "D4mianWayne"]
+[Result "1-0"]
+[UTCDate "2019.11.02"]
+[UTCTime "06:49:15"]
+[WhiteElo "1778"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d3 g6 3. Nf3 Nh6 4. Nc3 e5 5. Nxe5 b6 6. Nf3 Ng4 7. h3 Nf6 8. Bg5 h6 9. Bxf6 Rg8 10. Bxd8 d6 11. Bxc7 Kd7 12. Bxb8 Rxb8 13. Nb5 a5 14. Nh4 Ba6 15. c4 Be7 16. g3 g5 17. Nf5 Bf8 18. Qh5 Rg7 19. Nxg7 Bxg7 20. Qxf7+ Kd8 21. Qxg7 Rb7 22. Qxh6 a4 23. Qxd6+ Kc8 24. Qc6+ Kb8 25. Qe8# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/mvmFA7du"]
+[Date "2019.07.07"]
+[White "D4mianWayne"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2019.07.07"]
+[UTCTime "13:17:01"]
+[WhiteElo "1500"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. d3 d5 2. Be3 e6 3. b4 Bxb4+ 4. c3 Ba5 5. Na3 Bxc3+ 6. Bd2 Bxa1 7. Qxa1 Nf6 8. h3 Nc6 9. e3 O-O 10. Nb5 a6 11. Nc3 Nb4 12. g4 Nc2+ 13. Kd1 Nxa1 14. d4 Ne4 15. f3 Nf2+ 16. Ke2 Nxh1 17. g5 Qxg5 18. f4 Qxg1 19. Bg2 Qf2+ 20. Kd1 Qxg2 21. Bc1 Qc2+ 22. Ke1 Qxc1+ 23. Ke2 Qxc3 24. h4 Ng3+ 25. Kf3 Nf5 26. h5 b5 27. a3 Nxe3 28. Ke2 Qxa3 29. f5 exf5 30. h6 b4 31. Kd2 b3 32. Kc3 b2+ 33. Kd2 b1=Q 34. Ke2 gxh6 35. Kd2 f4 0-1
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/bWoByZ8n"]
+[Date "2019.05.15"]
+[White "cmrade"]
+[Black "lichess AI level 2"]
+[Result "0-1"]
+[UTCDate "2019.05.15"]
+[UTCTime "09:34:43"]
+[WhiteElo "1639"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d3 Nc6 3. Nf3 h6 4. Nc3 b6 5. Be2 Nge7 6. Nd4 Nxd4 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/iGNN0yiX"]
+[Date "2019.05.11"]
+[White "3OPEHbKA"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2019.05.11"]
+[UTCTime "18:33:32"]
+[WhiteElo "1489"]
+[BlackElo "1768"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C02"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 e6 3. d4 Nc6 4. Nf3 f6 5. Bb5 Bd7 6. a4 a6 7. Bd3 Nb4 8. c3 Nxd3+ 9. Qxd3 Ne7 10. exf6 gxf6 11. O-O Bg7 12. b3 e5 13. dxe5 fxe5 14. Qe2 e4 15. Ng5 O-O 16. Be3 h6 17. Nh3 Bxh3 18. gxh3 Rf7 19. Qg4 Nf5 20. Bd4 Qg5 21. Bxg7 Qxg4+ 22. hxg4 Rxg7 23. h3 h5 24. f3 hxg4 25. fxg4 Rf8 26. Nd2 Ne3 27. Rxf8+ Kxf8 28. Nf1 Nxf1 29. Rxf1+ Ke7 30. Kg2 Ke6 31. Kf2 c5 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/9nEpE0Wx"]
+[Date "2019.05.11"]
+[White "Eymen-Batu"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2019.05.11"]
+[UTCTime "18:33:03"]
+[WhiteElo "1500"]
+[BlackElo "1768"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/gm2Ap25q"]
+[Date "2018.12.13"]
+[White "cmrade"]
+[Black "karlijn0407"]
+[Result "1-0"]
+[UTCDate "2018.12.13"]
+[UTCTime "17:44:53"]
+[WhiteElo "1768"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 d6 2. f3 Nd7 3. d4 e6 4. Nc3 a5 5. d5 b6 6. Bb5 Nf6 7. Bg5 Ba6 8. Bxa6 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/g0C5jWZk"]
+[Date "2018.09.15"]
+[White "Jeffs042"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.09.15"]
+[UTCTime "09:18:45"]
+[WhiteElo "1699"]
+[BlackElo "1738"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D37"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 dxc4 5. e3 a6 6. Bxc4 b5 7. Be2 Bb7 8. O-O Nbd7 9. Bd2 c5 10. dxc5 Nxc5 11. a3 Bd6 12. Qc2 O-O 13. Nd4 Qc7 14. h3 Bh2+ 15. Kh1 Be5 16. Bf3 Rac8 17. Bxb7 Qxb7 18. Rac1 Nfe4 19. Nxe4 Nxe4 20. Qd3 Rxc1 21. Rxc1 Nxf2+ 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/o48hJ82p"]
+[Date "2018.09.07"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.09.07"]
+[UTCTime "09:22:13"]
+[WhiteElo "1617"]
+[BlackElo "1160"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Qe7 4. Ng5 Qc5 5. Bxf7+ Ke7 6. Bd5 Qd4 7. c3 Qc5 8. Nf7 Ng4 9. Qxg4 Na6 10. Nxh8 d6 11. Qe6+ 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/Ec4z4A9F"]
+[Date "2018.08.31"]
+[White "cmrade"]
+[Black "nikniknn"]
+[Result "1-0"]
+[UTCDate "2018.08.31"]
+[UTCTime "15:15:11"]
+[WhiteElo "1738"]
+[BlackElo "1608"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. O-O Bg4 8. Qd5 Qe7 9. Qxb7 Rd8 10. Bb5+ Rd7 11. h3 Bxh3 12. gxh3 c6 13. Bxc6 Nf6 14. Rd1 Nxe4 15. Qc8+ Qd8 16. Bxd7+ Ke7 17. Qxd8+ Kxd8 18. Bc6 Ng5 19. Bxg5+ Kc7 20. Be3 Kxc6 21. Bxa7 Be7 22. Nd2 Re8 23. Re1 Kd7 24. Nc4 Rc8 25. Nb6+ Kd8 26. Nxc8 Kxc8 27. Rxe7 Kd8 28. Rxf7 g6 29. Rd1 Ke8 30. Rh7 h5 31. Rxd6 g5 32. Rxh5 g4 33. hxg4 Ke7 34. Bb8 Kf7 35. Rh7+ Kg8 36. Rdd7 Kf8 37. Rh8# 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/hGkpkzAh"]
+[Date "2018.08.27"]
+[White "Vidotti_mamaeu"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.27"]
+[UTCTime "14:54:21"]
+[WhiteElo "1500"]
+[BlackElo "1736"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/0w6ZLa2o"]
+[Date "2018.08.27"]
+[White "cmrade"]
+[Black "Ginger_jesus"]
+[Result "1-0"]
+[UTCDate "2018.08.27"]
+[UTCTime "12:32:45"]
+[WhiteElo "1736"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C40"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Qe7 3. Bc4 Qc5 4. d3 d6 5. Ng5 h5 6. Nxf7 Rh7 7. Ng5 Rh6 8. Ne6 Rxe6 9. Bxe6 Bxe6 10. Be3 Qc6 11. Qxh5+ Bf7 12. Qe2 d5 13. exd5 Qxd5 14. O-O Nf6 15. Nc3 Bh5 16. Qxh5+ Nxh5 17. Nxd5 Bd6 18. Rfe1 Nd7 19. f4 O-O-O 20. Bxa7 exf4 21. Ne7+ Bxe7 22. Rxe7 b6 23. Rae1 Kb7 24. Bxb6 cxb6 25. a4 Ka6 26. b3 g5 27. Rf7 Nc5 28. Re5 Rg8 29. Ree7 Ka5 30. d4 Na6 31. c3 Rc8 32. Re5+ Nc5 33. Ra7# 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/GX2dzeod"]
+[Date "2018.08.26"]
+[White "cmrade"]
+[Black "izzyeck"]
+[Result "1-0"]
+[UTCDate "2018.08.26"]
+[UTCTime "11:55:12"]
+[WhiteElo "1736"]
+[BlackElo "1168"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Nf6 5. Nc6+ Qe7 6. Nxe7 Bxe7 7. Nc3 O-O 8. Qc4 Nc6 9. d3 Nb4 10. Qb3 c5 11. a3 a5 12. axb4 cxb4 13. Nd5 Bd8 14. Nxb4 Re8+ 15. Be2 Bb6 16. Bg5 Ng4 17. Be3 Ra6 18. Nxa6 bxa6 19. Bxb6 Bb7 20. Bxa5 Bxg2 21. Rg1 Nxh2 22. Rxg2 Nf3+ 23. Kd1 Nd4 24. Qa4 Nxe2 25. Qxd7 Kf8 26. Bb4+ 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/om95lo4H"]
+[Date "2018.08.19"]
+[White "Gomez79"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.08.19"]
+[UTCTime "09:22:16"]
+[WhiteElo "1833"]
+[BlackElo "1706"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-23"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D30"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. c4 e6 3. a3 Nf6 4. e3 Nbd7 5. Nf3 Be7 6. Bd3 dxc4 7. Bxc4 b6 8. O-O O-O 9. Nc3 Bb7 10. Qd3 c5 11. Nh4 Ng4 12. Qe2 Nxh2 13. Kxh2 Bxh4 14. Qg4 Be7 15. e4 cxd4 16. Nb5 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/aGLBZU08"]
+[Date "2018.08.19"]
+[White "cmrade"]
+[Black "doruk100"]
+[Result "1-0"]
+[UTCDate "2018.08.19"]
+[UTCTime "09:21:30"]
+[WhiteElo "1706"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/hL8SbmqT"]
+[Date "2018.08.19"]
+[White "cmrade"]
+[Black "Sobre"]
+[Result "1-0"]
+[UTCDate "2018.08.19"]
+[UTCTime "09:21:03"]
+[WhiteElo "1706"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/11Iu2BkM"]
+[Date "2018.08.17"]
+[White "cavallonero"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.17"]
+[UTCTime "11:44:57"]
+[WhiteElo "1624"]
+[BlackElo "1706"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+30"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Nf6 5. Bc4 a6 6. O-O b5 7. Bb3 e6 8. d4 c5 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. Bg5 Nbd7 12. Rd3 h6 13. Bh4 g5 14. Bg3 Bb7 15. Rad1 Rd8 16. Be5 Be7 17. Rxd7 Rxd7 18. Rxd7 Kxd7 19. Nd4 Rc8 20. a4 Rc5 21. Bg3 b4 22. Nce2 Bd5 23. Bxd5 Nxd5 24. f3 f6 25. Bf2 e5 26. Nf5 Rxc2 27. Nxh6 Rxe2 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/hbyyTX18"]
+[Date "2018.08.14"]
+[White "ruruaavtandil"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.14"]
+[UTCTime "17:46:05"]
+[WhiteElo "1500"]
+[BlackElo "1706"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/Otw7CmBm"]
+[Date "2018.08.08"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.08.08"]
+[UTCTime "17:15:36"]
+[WhiteElo "1603"]
+[BlackElo "1164"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 Bc5 4. d4 exd4 5. Nxd4 Bxd4 6. Qxd4 d6 7. e5 Ng4 8. exd6 cxd6 9. Qxg7 Rf8 10. f3 Ne5 11. Bf4 f6 12. Nc3 Nbc6 13. O-O-O Nb4 14. Bxe5 dxe5 15. Rxd8+ Kxd8 16. Qxf8+ Kd7 17. Qxb4 b6 18. Qf8 h6 19. Bb5+ Kc7 20. Rd1 h5 21. Qf7+ Kb8 22. Qxf6 Kc7 23. Qxe5+ 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/XpziXn3g"]
+[Date "2018.08.08"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.08"]
+[UTCTime "17:08:39"]
+[WhiteElo "1168"]
+[BlackElo "1586"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nb5 c6 4. Na3 e5 5. d3 f6 6. Nb1 Nh6 7. f3 Nf7 8. Nh3 h6 9. c3 dxc3 10. bxc3 Be6 11. Qc2 b5 12. Na3 Qa5 13. Be2 Bxa3 14. Bxa3 Qxa3 15. O-O Bxh3 16. gxh3 Ng5 17. h4 Nh3+ 18. Kg2 Nf4+ 19. Kf2 g5 20. Bd1 b4 21. Qd2 bxc3 22. Qc2 Na6 23. d4 exd4 24. Qc1 Qxc1 25. Rxc1 Nb4 26. a3 Na2 27. Ra1 Nb4 28. Ra2 Rb8 29. Rb2 Na6 30. Ba4 Rxb2+ 31. Ke1 Rb1+ 32. Kf2 Rxf1+ 33. Kxf1 Ke7 34. Bxc6 Nd3 35. Ba4 Nac5 36. Kg2 Nxa4 37. Kh3 Nab2 38. Kg2 c2 39. Kf1 c1=Q+ 40. Ke2 Qc2+ 41. Kf1 Qc1+ 42. Kg2 Qc2+ 43. Kh3 Qc1 44. Kg4 Qc2 45. Kf5 a6 46. Kg4 a5 47. Kh3 a4 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/j0HfySZG"]
+[Date "2018.08.08"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.08.08"]
+[UTCTime "17:02:23"]
+[WhiteElo "1565"]
+[BlackElo "1173"]
+[WhiteRatingDiff "+21"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Bc5 4. Ng5 Bxf2+ 5. Kxf2 Qe7 6. Nxf7 Qc5+ 7. Kf1 Qxc4+ 8. d3 Qxf7 9. Nc3 d6 10. Bg5 Bg4 11. Qe1 Qe7 12. Qh4 h6 13. Bxf6 gxf6 14. Qxg4 Nc6 15. Nd5 Qd7 16. Qxd7+ Kxd7 17. Nxf6+ Ke7 18. Nd5+ Ke6 19. Nxc7+ Kd7 20. Nxa8 Rxa8 21. Ke2 Rf8 22. c3 h5 23. g3 Ne7 24. Rhf1 Ke8 25. Rxf8+ Kxf8 26. Rf1+ Ke8 27. h4 Ng6 28. b4 b6 29. a4 a6 30. Rf6 Ne7 31. Rxd6 b5 32. Re6 Kf7 33. Rxa6 Ke8 34. axb5 Kd7 35. b6 Kc8 36. Ra8+ Kb7 37. Re8 Kxb6 38. Rxe7 Kc6 39. Rxe5 Kd7 40. Rxh5 Ke6 41. c4 Kf6 42. c5 Ke6 43. b5 Kd7 44. c6+ Kc8 45. Rh8+ Kc7 46. g4 Kb6 47. h5 Kxb5 48. h6 Kxc6 49. h7 Kd7 50. Rf8 Ke7 51. h8=Q Ke6 52. Qh5 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/gVXWH8YK"]
+[Date "2018.08.08"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.08"]
+[UTCTime "17:02:11"]
+[WhiteElo "1456"]
+[BlackElo "1691"]
+[WhiteRatingDiff "-41"]
+[BlackRatingDiff "+15"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/tPXxJWU8"]
+[Date "2018.08.03"]
+[White "tskrnedd"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.03"]
+[UTCTime "19:37:55"]
+[WhiteElo "1531"]
+[BlackElo "1676"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. d3 dxe4 3. d4 e5 4. f3 exd4 5. fxe4 Qh4+ 6. g3 Qxe4+ 7. Ne2 Qxh1 8. Nxd4 Qxh2 9. Qe2+ Qxe2+ 10. Bxe2 Nf6 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/OvfNWiSY"]
+[Date "2018.08.03"]
+[White "cmrade"]
+[Black "andergast"]
+[Result "1-0"]
+[UTCDate "2018.08.03"]
+[UTCTime "19:37:46"]
+[WhiteElo "1676"]
+[BlackElo "1524"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bh5 5. g4 Bg6 6. c3 Bxe4 7. d3 Bg6 8. Ng5 Qe7 9. Qf3 c6 10. Bb3 h6 11. Ne4 h5 12. c4 hxg4 13. hxg4 Rxh1+ 14. Qxh1 Nh6 15. f3 f5 16. gxf5 Bxf5 17. c5 Bxe4 18. dxe4 dxc5 19. Qh5+ Nf7 20. Bg5 Qd7 21. Nc3 Na6 22. Rd1 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/AJOpK3dq"]
+[Date "2018.08.03"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.08.03"]
+[UTCTime "19:31:14"]
+[WhiteElo "1537"]
+[BlackElo "1179"]
+[WhiteRatingDiff "+28"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 d5 4. exd5 c6 5. dxc6 bxc6 6. Ng5 Be6 7. d3 Qd4 8. Bxe6 fxe6 9. Nxe6 Qg4 10. Nc7+ Kd8 11. Qxg4 Nxg4 12. Nxa8 Bb4+ 13. Bd2 Bxd2+ 14. Nxd2 Na6 15. f3 Nf6 16. Ne4 Re8 17. Nxf6 gxf6 18. O-O-O Kd7 19. Rde1 Rxa8 20. d4 Re8 21. dxe5 fxe5 22. Re2 Nc5 23. Rhe1 Kd6 24. g4 h6 25. h4 a6 26. b4 Ne6 27. Rxe5 Nc7 28. Rxe8 Nxe8 29. Rxe8 Kd7 30. Rh8 Ke7 31. Rxh6 Kf7 32. Rxc6 Ke7 33. Rxa6 Kd7 34. Ra7+ Kc8 35. h5 Kb8 36. h6 Kxa7 37. h7 Kb8 38. h8=Q+ Kc7 39. Qh6 Kd7 40. g5 Ke7 41. g6 Kf6 42. g7+ Kf7 43. Qh8 Kg6 44. b5 Kf7 45. b6 Ke7 46. b7 Kd7 47. b8=Q Kc6 48. Qh5 Kd7 49. Qb7+ 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yeT36RxQ"]
+[Date "2018.08.03"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1/2-1/2"]
+[UTCDate "2018.08.03"]
+[UTCTime "19:25:33"]
+[WhiteElo "1164"]
+[BlackElo "1653"]
+[WhiteRatingDiff "+15"]
+[BlackRatingDiff "-116"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 f6 5. Ng3 Bb4+ 6. Bd2 Qd6 7. c3 dxc3 8. bxc3 Ba5 9. Qa4+ Qd7 10. Qxa5 b6 11. Qd5 Qxd5 12. exd5 Na6 13. Ne4 Ne7 14. Nh3 Nxd5 15. d4 Bd7 16. Bxa6 Bb5 17. Bxb5+ Ke7 18. O-O c6 19. Ba4 b5 20. Bb3 a5 21. Bxd5 cxd5 22. Nc5 a4 23. a3 Rhc8 24. Rab1 Rab8 25. Rfe1 b4 26. cxb4 Kd6 27. Na6 Rb6 28. Nc5 e4 29. Rbc1 Ke7 30. Bf4 Kf7 31. Bg3 Kf8 32. Bf4 Kg8 33. Bg3 Kf8 34. Bf4 Kg8 35. Bg3 Kf8 1/2-1/2
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/EqSVcq2P"]
+[Date "2018.08.02"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.08.02"]
+[UTCTime "07:44:17"]
+[WhiteElo "1633"]
+[BlackElo "1168"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C53"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Nxe4 6. dxc5 Nxc5 7. O-O Ne4 8. Qe2 Qf6 9. Qxe4 d5 10. Qxd5 Ne7 11. Qxe5 Qxe5 12. Nxe5 O-O 13. Bf4 Nf5 14. Re1 Re8 15. Nd2 h6 16. Bxf7+ Kf8 17. Bxe8 Kxe8 18. Ng6+ Kf7 19. Ne7 Be6 20. Nxf5 Bxf5 21. Bxc7 Re8 22. Rxe8 Kxe8 23. Bf4 Kd7 24. Nc4 Kc6 25. b4 Kd5 26. Ne3+ 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qYtLrPrk"]
+[Date "2018.08.02"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.08.02"]
+[UTCTime "07:37:33"]
+[WhiteElo "1172"]
+[BlackElo "1606"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+27"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d3 Nf6 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 c6 8. Bg5 h6 9. Bxf6 exf6 10. Ne4 Qe7 11. O-O-O Nd7 12. Re1 f5 13. g4 fxe4 14. dxe4 Qg5+ 15. Kd1 O-O-O 16. Qxf7 Ne5+ 17. Bd3 Nxf7 18. e5 Nxe5 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ddXxN5lG"]
+[Date "2018.08.01"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.08.01"]
+[UTCTime "07:37:41"]
+[WhiteElo "1568"]
+[BlackElo "1177"]
+[WhiteRatingDiff "+38"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C44"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. c3 Qe7 5. d4 exd4 6. Nxd4 Nxd4 7. cxd4 Nxe4 8. Qe2 d6 9. f3 Ng5 10. Qxe7+ Bxe7 11. O-O c5 12. dxc5 dxc5 13. Re1 b6 14. Bxg5 O-O 15. Bxe7 Re8 16. Nc3 Bf5 17. Nd5 f6 18. Nc7+ Kh8 19. Nxe8 Rxe8 20. Bb5 Rc8 21. Rad1 h6 22. b3 Bc2 23. Rd8+ Rxd8 24. Bxd8 Bb1 25. Re8+ Kh7 26. g4 Bxa2 27. Bd3+ f5 28. Bxf5+ g6 29. Re7+ 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/obdrgmxR"]
+[Date "2018.08.01"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.08.01"]
+[UTCTime "07:37:27"]
+[WhiteElo "1635"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-114"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Bc5 4. c3 Bxf2+ 5. Kxf2 Nxe4+ 6. Ke1 Qh4+ 7. Nxh4 d6 8. Qe2 f5 9. Bd3 g6 10. Bxe4 fxe4 11. Qxe4 O-O 12. d4 Nd7 13. Bh6 Re8 14. Rf1 Rf8 15. Qd5+ Rf7 16. Qxf7+ Kh8 17. Qg7# 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/SjJRdcaW"]
+[Date "2018.07.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:52:10"]
+[WhiteElo "1184"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+68"]
+[Variant "Standard"]
+[TimeControl "360+2"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Bg4 5. f3 Bh5 6. Ng3 Bb4+ 7. c3 dxc3 8. Bd2 cxd2+ 9. Ke2 Qe7 10. Nxh5 g6 11. Ng3 Nc6 12. a3 Ba5 13. b4 Bb6 14. Qxd2 O-O-O 15. Rb1 Nd4+ 16. Ke3 Nb3+ 17. Ke2 Nxd2 18. Kxd2 Qd6 19. N1e2 Qxd3+ 20. Kc1 Qd1+ 21. Kb2 Qd2+ 22. Kb3 Ne7 23. Nc3 Nc6 24. Nd5 Nd4+ 25. Kc4 Qc2+ 26. Nc3 Qxb1 27. Nxb1 Ne6 28. Nc3 h6 29. Nd5 c6 30. Ne7+ Kc7 31. b5 Rd1 32. Be2 Rxh1 33. Nxh1 Re8 34. Nxc6 bxc6 35. bxc6 Kxc6 36. Ng3 h5 37. Bd3 Nf4 38. Nf1 Nxd3 39. Kxd3 Rd8+ 40. Ke2 a5 41. a4 Rd4 42. Nd2 Rxa4 43. Nb3 Ra2+ 44. Kd3 Rxg2 45. h4 Rh2 46. Kc4 a4 47. Nc1 a3 48. Kb3 Bc5 49. f4 exf4 50. e5 f3 51. Nd3 f2 52. Nxf2 Rxf2 53. Kc4 a2 54. Kb3 a1=Q 55. Kc4 Rh2 56. e6 fxe6 57. Kd3 Rxh4 58. Ke2 e5 59. Kd3 Rg4 60. Ke2 h4 61. Kf3 Rf4+ 62. Kg2 Qf1+ 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/OYXaXe4E"]
+[Date "2018.07.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:47:10"]
+[WhiteElo "1556"]
+[BlackElo "1443"]
+[WhiteRatingDiff "-69"]
+[BlackRatingDiff "+69"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nb5 c6 4. Na3 e5 5. c3 dxc3 6. bxc3 f6 7. Nc4 Be6 8. Qb3 b5 9. Ne3 Bxb3 10. axb3 a6 11. Nf5 g6 12. Nh4 g5 13. Nhf3 Bh6 14. Bd3 Ne7 15. Ba3 Ng6 16. O-O-O Nf4 17. Nh3 Nxd3+ 18. Kc2 Nxf2 19. Rdf1 Nxh1 20. Rxh1 Qd7 21. d4 Kd8 22. g3 Kc8 23. g4 Kd8 24. Ne1 Kc7 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/H8Aft2jZ"]
+[Date "2018.07.30"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:44:00"]
+[WhiteElo "1504"]
+[BlackElo "1495"]
+[WhiteRatingDiff "-61"]
+[BlackRatingDiff "+61"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 d6 4. d4 exd4 5. Nxd4 Nc6 6. Nf3 Nxe4 7. Bc4 d5 8. Qxd5 Qxd5 9. Bxd5 Be6 10. Bxe4 Nb4 11. Kd1 Nxc2 12. Bxc2 Bb3 13. Bxb3 Bb4 14. Bd2 O-O 15. Re1 Rfd8 16. a3 h6 17. axb4 c6 18. Re4 c5 19. h3 cxb4 20. h4 b6 21. g3 b5 22. Ne5 a6 23. Nxf7 Rac8 24. Nxd8+ Rc4 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/jJAyT29j"]
+[Date "2018.07.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:41:25"]
+[WhiteElo "1595"]
+[BlackElo "1404"]
+[WhiteRatingDiff "-100"]
+[BlackRatingDiff "+100"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e6 4. Nb4 c5 5. Nd3 e5 6. f3 c4 7. Nxe5 f6 8. Nxc4 Be6 9. d3 Nc6 10. Ne2 Bb4+ 11. c3 dxc3 12. bxc3 Ba5 13. Qd2 Bxc4 14. dxc4 Qxd2+ 15. Bxd2 Ne5 16. Nf4 Nxc4 17. Bc1 O-O-O 18. Bd2 Rxd2 19. Bxc4 Bxc3 20. Kf1 Bxa1 21. Ke1 Rxa2 22. Kd1 Ra4 23. Re1 Ra5 24. Ba2 Ra4 25. Re2 Rxa2 26. Rc2+ Rxc2 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ewLgZgZO"]
+[Date "2018.07.30"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:38:43"]
+[WhiteElo "1472"]
+[BlackElo "1527"]
+[WhiteRatingDiff "-68"]
+[BlackRatingDiff "+68"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. d3 e6 3. Bg5 Nc6 4. Bxf6 Qxf6 5. f3 Qd8 6. Ne2 e5 7. Nbc3 Bc5 8. Qd2 Nb4 9. a3 d6 10. axb4 Bxb4 11. Ra4 Bxc3 12. Qxc3 f6 13. Ra1 Bd7 14. Ng3 O-O 15. Nh5 c6 16. g4 c5 17. Bh3 b6 18. b4 Qc8 19. bxc5 dxc5 20. d4 cxd4 21. Qxc8 Raxc8 22. Rxa7 Rxc2 23. Rxd7 Ra2 24. Rb7 Rc8 25. Rxb6 Rc1# 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/U34bJDhM"]
+[Date "2018.07.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:36:18"]
+[WhiteElo "1690"]
+[BlackElo "1309"]
+[WhiteRatingDiff "-163"]
+[BlackRatingDiff "+163"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. d3 Bg4 5. Nf3 Bxf3 6. gxf3 f6 7. Ng3 Bb4+ 8. c3 dxc3 9. bxc3 Bxc3+ 10. Bd2 Bxa1 11. Qxa1 Nc6 12. Nh5 Nge7 13. Nxg7+ Kf7 14. Nf5 Nxf5 15. exf5 Qd7 16. Bh6 Qxf5 17. Bh3 Qxf3 18. Qc3 Qxh1+ 19. Ke2 Qxh2 20. Be6+ Kxe6 21. Qb3+ Kd7 22. Qe6+ Kxe6 23. d4 Kf5 24. dxe5 Kxe5 25. Kd2 Ke6 26. Kc1 Qh1+ 27. Kd2 Qg1 28. Kd3 Qxf2 29. Kc3 Qxa2 30. Kd3 Qa3+ 31. Ke2 Qa4 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pD8npVbI"]
+[Date "2018.07.30"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:33:42"]
+[WhiteElo "1350"]
+[BlackElo "1649"]
+[WhiteRatingDiff "-41"]
+[BlackRatingDiff "+41"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B02"]
+[Termination "Time forfeit"]
+
+1. e4 Nf6 2. e5 Nd5 3. Bc4 c6 4. Bxd5 cxd5 5. d4 Nc6 6. c3 d6 7. Nf3 dxe5 8. Nxe5 Nxe5 9. dxe5 e6 10. O-O Qb6 11. Re1 Bc5 12. Qe2 Bxf2+ 13. Qxf2 Qxf2+ 14. Kxf2 O-O 15. Nd2 Bd7 16. Nf3 d4 17. Nxd4 b6 18. a3 Rfc8 19. Be3 Rc5 20. b4 f6 21. bxc5 f5 22. cxb6 axb6 23. Nb3 Rc8 24. Bxb6 Rxc3 25. Rab1 Rxb3 26. Rxb3 Ba4 27. Rb5 Bb3 28. Rb1 Bc2 29. Rc1 Bd1 30. Rxd1 f4 31. Rd3 f3 32. Ra5 g6 33. Rc3 g5 34. Rc2 g4 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/QsxvsnlH"]
+[Date "2018.07.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:31:18"]
+[WhiteElo "1566"]
+[BlackElo "1433"]
+[WhiteRatingDiff "+83"]
+[BlackRatingDiff "-83"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e6 4. Nf4 e5 5. d3 exf4 6. Nh3 g5 7. Nxg5 Qxg5 8. h4 Qd8 9. Be2 Bh6 10. Bh5 Nf6 11. g4 Rg8 12. Rg1 Bxg4 13. Rxg4 Rxg4 14. Bxg4 Nc6 15. Bh5 Qe7 16. e5 Nd7 17. Qe2 Ncxe5 18. Bxf4 Nf3+ 19. Kd1 Qxe2+ 20. Kxe2 Ng1+ 21. Kf1 Nh3 22. Kg2 Nxf4+ 23. Kf3 Nxh5 24. Kg4 Nhf6+ 25. Kf5 Nc5 26. Ke5 Na4 27. Kxd4 Nxb2 28. Kc3 Ng4 29. Kxb2 Be3 30. Kb3 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/uebqpvGe"]
+[Date "2018.07.30"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:28:52"]
+[WhiteElo "1662"]
+[BlackElo "1337"]
+[WhiteRatingDiff "-229"]
+[BlackRatingDiff "+229"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B02"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 c6 4. dxc6 bxc6 5. d3 Na6 6. Be2 Nd5 7. Nxd5 cxd5 8. Bf3 e6 9. Bh5 Qa5+ 10. Bd2 Qb5 11. a4 Qd7 12. b3 Qd6 13. g3 Nb4 14. Bf4 Nxc2+ 15. Qxc2 Qb4+ 16. Kf1 Ba6 17. Nf3 Qxf4 18. gxf4 Bxd3+ 19. Kg2 Rc8 20. Ng5 Kd7 21. Nxf7 Bc5 22. Nxh8 d4 23. Qxd3 g6 24. Qa6 gxh5 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/upikXqRf"]
+[Date "2018.07.30"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.30"]
+[UTCTime "16:25:23"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-163"]
+[BlackRatingDiff "+162"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e6 4. Nf4 e5 5. Nfh3 Bxh3 6. gxh3 f6 7. Qh5+ g6 8. Qd1 Nc6 9. d3 Nb4 10. Qd2 Nc6 11. Bg2 Bb4 12. c3 dxc3 13. bxc3 Ba5 14. Ba3 Nge7 15. Qe3 Bb6 16. Bb4 Bxe3 17. fxe3 Nxb4 18. Nf3 Nc2+ 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/4GFroIY5"]
+[Date "2018.07.30"]
+[White "cmrade"]
+[Black "njegova"]
+[Result "1-0"]
+[UTCDate "2018.07.30"]
+[UTCTime "13:31:04"]
+[WhiteElo "1574"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-121"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C53"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 d6 6. d4 Bb6 7. dxe5 dxe5 8. Qxd8+ Kxd8 9. Ng5 Be6 10. Bxe6 fxe6 11. Nf7+ Ke7 12. Nxh8 Nxe4 13. f3 Nf2 14. Rf1 Nd3+ 15. Kd2 Nxc1 16. Kxc1 Rxh8 17. Nd2 Rd8 18. Re1 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/7UVymtnl"]
+[Date "2018.07.28"]
+[White "DalVerissimo"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.28"]
+[UTCTime "18:33:14"]
+[WhiteElo "1266"]
+[BlackElo "1574"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. e5 c5 3. Nf3 Bg4 4. Nc3 e6 5. Bb5+ Nd7 6. O-O a6 7. Ba4 b5 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/P38GIzue"]
+[Date "2018.07.28"]
+[White "cmrade"]
+[Black "DalVerissimo"]
+[Result "1-0"]
+[UTCDate "2018.07.28"]
+[UTCTime "18:32:54"]
+[WhiteElo "1574"]
+[BlackElo "1266"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C40"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 f6 3. Bc4 Ne7 4. c3 Nbc6 5. d4 exd4 6. Nxd4 Nxd4 7. cxd4 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/doS0Q6NC"]
+[Date "2018.07.27"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.07.27"]
+[UTCTime "07:39:37"]
+[WhiteElo "1469"]
+[BlackElo "1801"]
+[WhiteRatingDiff "+56"]
+[BlackRatingDiff "-162"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Nc3 d4 3. Nb5 c6 4. Na3 e5 5. Nf3 f6 6. d3 Bg4 7. h3 Bxf3 8. gxf3 Nd7 9. Nc4 Nc5 10. b3 Ne7 11. Bg2 Ng6 12. Bd2 Ne6 13. h4 h5 14. Bh3 Nef4 15. Bf5 Ne7 16. Ba5 b6 17. Bb4 Nxf5 18. Bxf8 Kxf8 19. exf5 Qd7 20. Qd2 Qxf5 21. Qb4+ c5 22. Nd6 Qd7 23. Qd2 Qxd6 24. Rh2 Qe6 25. Rb1 Qe8 26. Qc1 Qb5 27. Qd2 Qa5 28. Qxa5 bxa5 29. Rd1 Rb8 30. b4 Rxb4 31. a3 Rb2 32. Rc1 Kf7 33. c3 dxc3 34. Rxc3 Rb1+ 35. Kd2 Ra1 36. Rxc5 Rxa3 37. Rc7+ Ke6 38. Rxa7 Ra2+ 39. Kc3 Ne2+ 40. Kc4 Ra1 41. Ra6+ 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/1KcfkbpR"]
+[Date "2018.07.27"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.27"]
+[UTCTime "07:18:40"]
+[WhiteElo "1484"]
+[BlackElo "1761"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+40"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. Bb5+ c6 3. Ba4 dxe4 4. d3 exd3 5. cxd3 Nf6 6. Nc3 e6 7. Nf3 Bb4 8. Qd2 b5 9. a3 Bc5 10. Bb3 Nbd7 11. Ng5 O-O 12. Nxh7 Nxh7 13. Ne4 Be7 14. O-O Nc5 15. Nxc5 Bxc5 16. Bc2 e5 17. Re1 Re8 18. Qe2 f6 19. Qh5 Ba6 20. Bb3+ Kh8 21. Qf7 Qxd3 22. Re3 Bxe3 23. h3 Bxc1 24. Rxc1 b4 25. Rxc6 bxa3 26. Rxa6 Qb1+ 27. Kh2 Qxb2 28. Rxa3 Qxa3 29. Qc4 Qa1 30. Qc2 Qa5 31. Qc4 Qc7 32. Qc6 Qxc6 33. Ba4 Qa6 34. Bb3 Qa4 35. Bxa4 Rab8 36. Bc2 Rb1 37. Bxb1 Rc8 38. Bc2 a5 39. Bd3 a4 40. Bc2 a3 41. Bd1 a2 42. Bc2 a1=Q 43. Bb3 Rc7 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/x2lXlrGi"]
+[Date "2018.07.27"]
+[White "cmrade"]
+[Black "pelican9"]
+[Result "1-0"]
+[UTCDate "2018.07.27"]
+[UTCTime "05:53:01"]
+[WhiteElo "1530"]
+[BlackElo "1500"]
+[WhiteRatingDiff "+61"]
+[BlackRatingDiff "-160"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C58"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Qf3 Bb7 9. Ba4 h6 10. Nh3 Bd6 11. d3 O-O 12. O-O c5 13. Qe2 Nc6 14. c3 Qc7 15. Nd2 e4 16. Nxe4 Bxh2+ 17. Kh1 Nxe4 18. dxe4 Rae8 19. f4 Bg3 20. Qg4 Rxe4 21. Bc2 Re1 22. Rxe1 Bxe1 23. Be3 f5 24. Bxf5 Bh4 25. Be6+ Kh8 26. Qxh4 Ne7 27. a3 Qc6 28. Qg4 Rf6 29. Bc4 Rg6 30. Ng5 hxg5 31. fxg5 Nf5 32. Qh3+ Nh6 33. gxh6 Rxg2 34. hxg7+ Kxg7 35. Rg1 Rg6+ 36. Kh2 Qd6+ 37. Rg3 Bc6 38. Qh6+ 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/ub4WQ6uR"]
+[Date "2018.07.27"]
+[White "cmrade"]
+[Black "Sanchez578"]
+[Result "1-0"]
+[UTCDate "2018.07.27"]
+[UTCTime "05:32:02"]
+[WhiteElo "1530"]
+[BlackElo "1376"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C54"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/7ux2YcJP"]
+[Date "2018.07.27"]
+[White "Sanchez578"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.27"]
+[UTCTime "05:31:47"]
+[WhiteElo "1376"]
+[BlackElo "1530"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. Bb5+ c6 7. Be2 e6 8. O-O Nbd7 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/KDGqsQO3"]
+[Date "2018.07.25"]
+[White "cmrade"]
+[Black "maniweiss123"]
+[Result "1-0"]
+[UTCDate "2018.07.25"]
+[UTCTime "13:33:17"]
+[WhiteElo "1530"]
+[BlackElo "1394"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B30"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 Nc6 3. c4 e5 4. b3 Nf6 5. d3 Be7 6. Bb2 d6 7. Be2 Be6 8. Nc3 Qc7 9. Nd5 Qa5+ 10. Bc3 Qa6 11. Nc7+ 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/Ign6QoD0"]
+[Date "2018.07.22"]
+[White "Baifox"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.07.22"]
+[UTCTime "09:00:37"]
+[WhiteElo "1526"]
+[BlackElo "1671"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-81"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. Nf3 Bg4 4. Be2 e6 5. d4 Bxf3 6. Bxf3 cxd4 7. Qxd4 Nc6 8. Qa4 Qd7 9. Nc3 Nxe5 10. Bf4 Qxa4 11. Nxa4 Nxf3+ 12. gxf3 Rc8 13. O-O-O Rc4 14. Be5 Rxa4 15. a3 Bc5 16. Bxg7 Rf4 17. Bxh8 f6 18. Rhg1 Ne7 19. Rg7 h5 20. Rh7 Rxf3 21. Rxh5 Kf7 22. Rg1 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/vpaGUAlv"]
+[Date "2018.07.22"]
+[White "koposovo15"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.22"]
+[UTCTime "08:46:49"]
+[WhiteElo "1341"]
+[BlackElo "1620"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/ayjU7Wwm"]
+[Date "2018.07.22"]
+[White "SAGRN"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.22"]
+[UTCTime "08:23:14"]
+[WhiteElo "1728"]
+[BlackElo "1620"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. c4 Qd8 4. g3 Nf6 5. Nc3 Bg4 6. Nf3 c6 7. Bg2 e6 8. O-O Bc5 9. Qe2 O-O 10. Na4 Bd4 11. Qd3 Bxf2+ 12. Kxf2 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/BUUqfAY4"]
+[Date "2018.07.21"]
+[White "cmrade"]
+[Black "MCXI_Bryan"]
+[Result "1-0"]
+[UTCDate "2018.07.21"]
+[UTCTime "22:16:55"]
+[WhiteElo "1620"]
+[BlackElo "1255"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B00"]
+[Termination "Time forfeit"]
+
+1. e4 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/RlRmqYBI"]
+[Date "2018.07.21"]
+[White "maniweiss123"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.21"]
+[UTCTime "22:13:01"]
+[WhiteElo "1534"]
+[BlackElo "1587"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 d5 2. f3 Nc6 3. c3 Bf5 4. e3 e5 5. g4 Bg6 6. h4 h5 7. b4 b5 8. Bxb5 Qd7 9. Ne2 a6 10. Bxc6 Qxc6 11. O-O hxg4 12. Qe1 gxf3 13. Ng3 e4 14. Bd2 Rxh4 15. Na3 Bd6 16. Nf5 Bh2+ 17. Kh1 Rh3 18. Qf2 Bg3+ 19. Kg1 Bxf2+ 20. Rxf2 Bxf5 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/CgUWXIc8"]
+[Date "2018.07.21"]
+[White "DanielRZO"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.21"]
+[UTCTime "21:50:40"]
+[WhiteElo "1500"]
+[BlackElo "1587"]
+[WhiteRatingDiff "-100"]
+[BlackRatingDiff "+44"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. e5 c5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. b3 Nc6 7. Bb2 Nge7 8. Nc3 a6 9. Be2 Nd4 10. Qd3 Nec6 11. Na4 Nb4 12. Qc3 Ndxc2+ 13. Kf1 Nxa1 14. Bxa1 Nxa2 15. Qf3 b6 16. Kg1 b5 17. Nb2 Nc1 18. Kh2 Nxe2 19. Qxe2 Be7 20. Nd3 O-O 21. b4 cxb4 22. Nf4 Qc7 23. Bd4 a5 24. Qxb5 Qc4 25. Bb6 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/Z75CAG9O"]
+[Date "2018.07.21"]
+[White "cmrade"]
+[Black "AntonelloB"]
+[Result "1-0"]
+[UTCDate "2018.07.21"]
+[UTCTime "21:34:25"]
+[WhiteElo "1526"]
+[BlackElo "1340"]
+[WhiteRatingDiff "+33"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C53"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Bb6 6. dxe5 Nxe5 7. Nxe5 Qe7 8. Nf3 d6 9. O-O Nxe4 10. Nbd2 f5 11. Nxe4 fxe4 12. Bg5 Qd7 13. Re1 Qf5 14. Qd5 Be6 15. Qxe4 O-O 16. Bxe6+ 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/VCTKqrX7"]
+[Date "2018.07.21"]
+[White "gusanopulgoso"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.21"]
+[UTCTime "20:31:22"]
+[WhiteElo "1500"]
+[BlackElo "1526"]
+[WhiteRatingDiff "-163"]
+[BlackRatingDiff "+61"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nc6 3. e3 Bf5 4. c3 f6 5. Nd2 e5 6. dxe5 fxe5 7. Bg3 Nf6 8. Nb3 b6 9. Bb5 Bd7 10. Bxc6 Bxc6 11. Bxe5 Ba4 12. Bxf6 Qxf6 13. Qxd5 Bc6 14. Qh5+ g6 15. Qg4 h5 16. Qg3 Bd6 17. f4 g5 18. Nf3 gxf4 19. exf4 Bxf4 20. Qf2 O-O-O 21. O-O h4 22. h3 Rd3 23. Kh1 Bxf3 24. gxf3 Qf5 25. Qg2 Qf7 26. Qe2 Re3 27. Qf2 Qe6 28. Qg2 Rg8 29. Qxg8+ Qxg8 30. Rg1 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/5T0JTanU"]
+[Date "2018.07.20"]
+[White "ugtan"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.20"]
+[UTCTime "18:09:10"]
+[WhiteElo "1504"]
+[BlackElo "1692"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+69"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 e6 4. Nf4 e5 5. Nd5 c6 6. c3 cxd5 7. cxd4 exd4 8. Bd3 dxe4 9. Bxe4 Qe7 10. f3 f5 11. Qe2 fxe4 12. Qxe4 Qxe4+ 13. fxe4 Bd6 14. Nf3 Nc6 15. d3 Bb4+ 16. Bd2 Bxd2+ 17. Nxd2 Nf6 18. Rf1 Rf8 19. Nc4 Kd7 20. e5 Nxe5 21. Nxe5+ Ke7 22. Nf3 Bg4 23. Nxd4 Rad8 24. Rf4 g5 25. Rf2 Rxd4 26. Rd1 Bxd1 27. Kxd1 Rxd3+ 28. Rd2 Rxd2+ 29. Kxd2 Rd8+ 30. Ke3 Nd5+ 31. Kd4 Nf4+ 32. Ke4 Nxg2 33. Kf3 Rd2 34. Ke4 Rxb2 35. Kf5 h5 36. Kxg5 h4 37. Kg4 Rxa2 38. Kh3 b5 39. Kg4 b4 40. Kf3 b3 41. Ke4 b2 42. Kd3 b1=Q+ 43. Kc3 Qb3+ 44. Kxb3 Rf2 45. Kc3 Nf4 46. Kd4 Rxh2 47. Ke4 Ne2 48. Ke3 Nc3 49. Kf3 a5 50. Ke3 a4 51. Kd3 Nb5 52. Kc4 Nd6+ 53. Kc5 a3 54. Kb4 a2 55. Kb3 a1=Q 56. Kb4 Rb2+ 57. Kc3 h3 58. Kd3 h2 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/QHp6xvWE"]
+[Date "2018.07.20"]
+[White "cmrade"]
+[Black "ugtan"]
+[Result "1-0"]
+[UTCDate "2018.07.20"]
+[UTCTime "17:54:15"]
+[WhiteElo "1500"]
+[BlackElo "1537"]
+[WhiteRatingDiff "+192"]
+[BlackRatingDiff "-33"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C42"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 d6 4. h3 Nc6 5. Bg5 h6 6. Bxf6 gxf6 7. Nc3 Nd4 8. Nxd4 exd4 9. Nd5 Qd7 10. Nxf6+ Ke7 11. Nxd7 Kxd7 12. Be2 Kd8 13. Bg4 h5 14. Bxh5 Ke7 15. Bg4 f5 16. Bxf5 Bxf5 17. exf5 Rh5 18. g4 Rh6 19. g5 Rh4 20. Qe2+ Kf7 21. O-O-O Re8 22. Qf3 Re3 23. Qg2 Re5 24. f6 Ra5 25. Kb1 d5 26. Rde1 Bb4 27. Re5 c6 28. Rf5 Bd2 29. g6+ Ke6 30. g7 Kxf5 31. g8=Q Kxf6 32. Q2g6+ Ke5 33. Q8e6+ Kf4 34. Qg3# 1-0
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/4Z7CwZIR"]
+[Date "2018.07.20"]
+[White "sulaemangozali"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.07.20"]
+[UTCTime "17:36:16"]
+[WhiteElo "1802"]
+[BlackElo "1767"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-35"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 e5 4. Nxe4 Nf6 5. Ng3 e4 6. c3 Bg4 7. Be2 Bxe2 8. Qxe2 Bd6 9. Nxe4 Nxe4 10. Qxe4+ Qe7 11. Qxe7+ Bxe7 12. d4 c6 13. O-O O-O 14. Be3 Re8 15. Nd2 Bf6 16. Nc4 Nd7 17. Nd6 Re7 18. b4 b5 19. a4 Nb6 20. axb5 cxb5 21. Nxb5 Nc4 22. Rfe1 Nxe3 23. fxe3 a6 24. Nd6 Bg5 25. e4 g6 26. e5 f5 27. Re2 f4 28. Rea2 Rea7 29. b5 Bd8 30. Rxa6 Rxa6 31. Rxa6 Rxa6 32. bxa6 Bb6 33. e6 Kf8 34. e7+ Kxe7 35. Nc8+ Kd7 36. Nxb6+ Kc7 37. Nc4 Kb8 38. d5 Ka7 39. d6 Kxa6 40. d7 Kb7 41. d8=Q 1-0
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/bvc4bdUo"]
+[Date "2018.07.20"]
+[White "inank20"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.20"]
+[UTCTime "17:15:31"]
+[WhiteElo "1493"]
+[BlackElo "1750"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+17"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 Bg4 6. Be2 e6 7. O-O Bb4 8. Bd2 c6 9. h3 Bh5 10. a3 Ba5 11. b4 Bb6 12. Na4 h6 13. Nxb6 axb6 14. b5 c5 15. dxc5 bxc5 16. Be3 Qxd1 17. Raxd1 O-O 18. Bxc5 Rc8 19. Be7 Nd5 20. g4 Nc3 21. Rd8+ Rxd8 22. Bxd8 Nxe2+ 23. Kg2 Bg6 24. Ne5 Bxc2 25. Re1 Nf4+ 26. Kg1 Nxh3+ 27. Kh2 Nxf2 28. Rf1 Nd3 29. Nxf7 Rxa3 30. Rf3 Bd1 0-1
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/Ppq8u2nS"]
+[Date "2018.07.20"]
+[White "cmrade"]
+[Black "I_Dan"]
+[Result "1-0"]
+[UTCDate "2018.07.20"]
+[UTCTime "16:08:27"]
+[WhiteElo "1685"]
+[BlackElo "1832"]
+[WhiteRatingDiff "+65"]
+[BlackRatingDiff "-15"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "C53"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8. Nbxd2 Bg4 9. O-O Nge7 10. h3 Bh5 11. Be2 O-O 12. Nb3 Ng6 13. g3 Bxf3 14. Bxf3 Qg5 15. Kh2 1-0
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/U18WGAn0"]
+[Date "2018.07.20"]
+[White "cmrade"]
+[Black "El_hoss"]
+[Result "0-1"]
+[UTCDate "2018.07.20"]
+[UTCTime "16:05:51"]
+[WhiteElo "1732"]
+[BlackElo "1750"]
+[WhiteRatingDiff "-47"]
+[BlackRatingDiff "+37"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "B32"]
+[Termination "Normal"]
+
+1. e4 e6 2. Nf3 c5 3. d4 Nc6 4. dxc5 Bxc5 5. Be3 Bxe3 6. fxe3 Qb6 7. Qe2 Qxb2 8. Nbd2 Qxa1+ 9. Qd1 Qxd1+ 10. Kxd1 Nf6 11. e5 Ng4 12. h3 0-1
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/JcyN8hrp"]
+[Date "2018.07.20"]
+[White "cmrade"]
+[Black "STALINGRAD"]
+[Result "1-0"]
+[UTCDate "2018.07.20"]
+[UTCTime "15:22:53"]
+[WhiteElo "1663"]
+[BlackElo "1716"]
+[WhiteRatingDiff "+69"]
+[BlackRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "B15"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. Nc3 Nf6 4. f3 Be6 5. Bg5 Ng8 6. Bf4 Qd7 7. Qe2 h6 8. O-O-O g5 9. Bg3 Na6 10. e5 Nc7 11. h4 g4 12. Bf4 h5 13. Bg5 Bf5 14. g3 O-O-O 15. fxg4 hxg4 16. Qf2 Qe6 17. Bd3 Nh6 18. Nge2 Kb8 19. Nf4 Qd7 20. Bxf5 Nxf5 21. Ng2 Rc8 22. Rdf1 e6 23. Ne3 Nxd4 24. Qxf7 Rh7 25. Qxd7 Rxd7 26. h5 Nf3 27. h6 Nxg5 28. Nxg4 Bb4 29. Nf6 Rf7 30. h7 Rh8 31. Rh5 Nxh7 32. Rfh1 Bf8 33. Rxh7 Rfxh7 34. Rxh7 Rxh7 35. Nxh7 Bg7 36. g4 Bxe5 37. g5 Kc8 38. g6 Kd8 39. Kd2 Ke8 40. Ne2 Bg7 41. Ng3 e5 42. Nh5 Ne6 43. Ke3 Bh6+ 44. Kf3 Ng7 45. N5f6+ Ke7 46. Ng4 Bc1 47. b3 e4+ 48. Kg3 Nf5+ 49. Kh3 Ke6 50. Nf8+ Kd6 51. a4 e3 52. Nxe3 Bxe3 53. Kg4 Ke5 54. Nd7+ Ke6 55. Kh5 b5 56. Nb8 bxa4 57. bxa4 c5 58. Nc6 a6 59. Nb8 d4 60. Nxa6 Ke5 61. Nxc5 d3 62. cxd3 Bxc5 63. a5 Ng7+ 64. Kh6 Kf6 65. Kh7 Be3 66. a6 Bb6 67. Kg8 Ne8 68. Kh7 Nc7 69. Kh8 Ne6 70. g7 Nxg7 71. Kh7 1-0
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/VY25HWOS"]
+[Date "2018.07.20"]
+[White "yasar11kocas"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.07.20"]
+[UTCTime "15:10:50"]
+[WhiteElo "2039"]
+[BlackElo "1683"]
+[WhiteRatingDiff "+40"]
+[BlackRatingDiff "-20"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. f4 Nf6 5. Nf3 Bg4 6. Bc4 e6 7. d3 a6 8. O-O Nc6 9. a4 Qd4+ 10. Kh1 Bd6 11. Nxd4 Bxd1 12. Nxc6 bxc6 13. Nxd1 O-O 14. Nf2 a5 15. Ne4 Nxe4 16. dxe4 Bc5 17. Bd2 Rfd8 18. Rad1 h6 19. Bc3 Rxd1 20. Rxd1 Bd6 21. g3 Re8 22. e5 Bc5 23. Bxa5 Bb6 24. Bc3 Ra8 25. Bb3 g5 26. Kg2 gxf4 27. gxf4 Kh7 28. Kf3 Ba5 29. Bxa5 Rxa5 30. Rd7 Rd5 1-0
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/sCe1ceNz"]
+[Date "2018.07.20"]
+[White "imasteri"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.20"]
+[UTCTime "15:06:04"]
+[WhiteElo "1717"]
+[BlackElo "1576"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+107"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Nf3 Bg4 6. Be2 N8d7 7. O-O e5 8. Nxe5 Nxe5 9. Bxg4 Nxg4 10. Qxg4 Qxd4 11. Rd1 f5 12. Qxf5 Qxd1# 0-1
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/FVuBQiKs"]
+[Date "2018.07.20"]
+[White "fifyfo"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.20"]
+[UTCTime "15:04:01"]
+[WhiteElo "1499"]
+[BlackElo "1475"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+101"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "?"]
+[Termination "Abandoned"]
+
+ 0-1
+
+
+[Event "Weekly Classical Arena"]
+[Site "https://lichess.org/2shcidjA"]
+[Date "2018.07.20"]
+[White "spk93"]
+[Black "cmrade"]
+[Result "1-0"]
+[UTCDate "2018.07.20"]
+[UTCTime "15:01:43"]
+[WhiteElo "1719"]
+[BlackElo "1545"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-70"]
+[Variant "Standard"]
+[TimeControl "1200+10"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nf3 dxe4 3. Ng5 Be6 4. Nxe6 fxe6 5. Bc4 1-0
+
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/qrri30H9"]
+[Date "2018.07.20"]
+[White "cmrade"]
+[Black "Subzero000"]
+[Result "1/2-1/2"]
+[UTCDate "2018.07.20"]
+[UTCTime "08:16:02"]
+[WhiteElo "1500"]
+[BlackElo "1591"]
+[WhiteRatingDiff "+45"]
+[BlackRatingDiff "-1"]
+[Variant "Standard"]
+[TimeControl "900+15"]
+[ECO "B10"]
+[Termination "Normal"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. c3 Bg4 6. Be2 Nf6 7. h3 Bxf3 8. Bxf3 g6 9. Nd2 Bg7 10. Nb3 O-O 11. O-O Re8 12. Re1 Qc7 13. a3 Rad8 14. Bg5 e5 15. Nc5 e4 16. Be2 a6 17. b4 h6 18. Be3 Nd7 19. Nxd7 Rxd7 20. g3 Rde7 21. Bf4 Qd8 22. b5 axb5 23. Bxb5 Re6 24. c4 dxc4 25. d5 Bxa1 26. dxe6 Qxd1 27. Rxd1 Bb2 28. Bxc4 fxe6 29. Bxh6 Kh7 30. Bg5 Bxa3 31. Bb5 Be7 32. Bxe7 Rxe7 33. Bxc6 bxc6 34. Re1 Kg7 35. Rxe4 e5 36. f4 Kf6 37. fxe5+ Rxe5 38. Rxe5 Kxe5 39. Kf2 Kd4 40. Ke2 c5 41. Kd2 c4 42. Kc2 g5 43. h4 gxh4 44. gxh4 Ke5 45. h5 Kf6 46. h6 Kg6 47. h7 Kxh7 48. Kc3 Kg6 49. Kxc4 1/2-1/2
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/DaNHjqtt"]
+[Date "2018.07.19"]
+[White "HOPLITAPL"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.19"]
+[UTCTime "08:54:39"]
+[WhiteElo "1393"]
+[BlackElo "1261"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. a3 Nc6 6. Bb5 Bd7 7. d4 a6 8. Bxc6 Bxc6 9. Bg5 Be7 10. Bxe7 Qxe7 11. Ne5 Nf6 12. Nxc6 bxc6 13. O-O O-O 14. Re1 h6 15. Ne4 Nxe4 16. Rxe4 Rfd8 17. c3 c5 18. Qf3 Rab8 19. dxc5 Rxb2 20. Rd1 Rxd1+ 21. Qxd1 Qxc5 22. Qf3 Rb1+ 0-1
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/cUXql632"]
+[Date "2018.07.18"]
+[White "cmrade"]
+[Black "rusergun"]
+[Result "1-0"]
+[UTCDate "2018.07.18"]
+[UTCTime "15:45:11"]
+[WhiteElo "1261"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 a6 4. Ng5 Qxg5 5. O-O Bc5 6. d4 Qg6 7. dxc5 Qxe4 8. Bd3 Qd5 9. Be3 e4 10. Be2 Qxd1 11. Rxd1 Nf6 12. Nc3 O-O 13. Bg5 Re8 14. Bxf6 gxf6 15. Nd5 Re5 16. Nxf6+ Kg7 17. Nxd7 Re7 18. Bg4 Ne5 19. Nxe5 Rxe5 20. Bxc8 Rxc8 21. h3 Rxc5 22. c3 Re8 23. Re1 f5 24. f4 Kf7 25. Re3 b5 26. Rae1 Rd8 27. g4 Kg6 28. gxf5+ Rxf5 29. Rxe4 Rd2 30. R4e2 Rd3 31. Re6+ Kh5 32. R6e5 Kg6 33. Re6+ Kh5 34. R1e5 Rg3+ 35. Kh2 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/nUY7bVqO"]
+[Date "2018.07.18"]
+[White "cmrade"]
+[Black "RayStormThunder"]
+[Result "1-0"]
+[UTCDate "2018.07.18"]
+[UTCTime "15:05:28"]
+[WhiteElo "1261"]
+[BlackElo "1381"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 a6 4. c3 b5 5. Bd5 f6 6. d4 exd4 7. cxd4 Bb7 8. Nc3 Bb4 9. a4 bxa4 10. Rxa4 Bxc3+ 11. bxc3 Nge7 12. Ba3 a5 13. c4 Rf8 14. e5 Qb8 15. exf6 Rxf6 16. O-O Kd8 17. Re1 Nxd5 18. cxd5 Ne7 19. Bxe7+ Kc8 20. Bxf6 Bxd5 1-0
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/CSUt50en"]
+[Date "2018.07.18"]
+[White "Spudmund"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.18"]
+[UTCTime "15:05:01"]
+[WhiteElo "1439"]
+[BlackElo "1261"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+113"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 c5 4. d3 e5 5. Nf3 f6 6. c3 Nc6 7. cxd4 cxd4 8. a3 Be6 9. b4 b5 10. Bb2 a6 11. Nc1 a5 12. Nb3 Bxb3 13. Qxb3 axb4 14. axb4 Bxb4+ 15. Nd2 Rxa1+ 16. Bxa1 Qa5 17. Bb2 Bxd2+ 18. Ke2 Bb4 19. Qe6+ Nge7 20. g3 Nd8 21. Qb3 Qa4 22. Qxa4 bxa4 23. Bh3 Ndc6 24. Ra1 Bc3 25. Bxc3 dxc3 26. Kd1 Nd4 27. Rxa4 Kf7 28. Ra6 Nec6 29. f4 g6 30. fxe5 fxe5 31. Bd7 c2+ 32. Kc1 Nb4 33. Ra7 Nxd3+ 34. Kd2 c1=Q+ 35. Kxd3 Qc2+ 36. Ke3 Qe2# 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/MoA4HUSx"]
+[Date "2018.07.18"]
+[White "cmrade"]
+[Black "waxmater228"]
+[Result "0-1"]
+[UTCDate "2018.07.18"]
+[UTCTime "12:01:59"]
+[WhiteElo "1500"]
+[BlackElo "1387"]
+[WhiteRatingDiff "-239"]
+[BlackRatingDiff "+18"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C41"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. f3 d5 6. Bd3 dxe4 7. Bxe4 Nxe4 8. fxe4 Nc6 9. Nf3 Qxd1+ 10. Kxd1 Bg4 11. Nd2 O-O-O 12. c3 Ne5 13. Kc2 Nd3 14. h3 Nf2 15. Rf1 Bxf3 16. Rxf2 Bh5 17. g4 Bg6 18. a4 h5 19. g5 Bc5 20. Rf1 Be3 21. h4 Bxd2 22. Bxd2 Bxe4+ 23. Kc1 Rhf8 24. b4 f6 25. gxf6 Rxf6 26. Rxf6 gxf6 27. Kb2 Rxd2+ 28. Ka3 b6 29. Rg1 Bd5 30. Ra1 a5 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/Y9Qm7l1z"]
+[Date "2018.07.18"]
+[White "cag1001"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.18"]
+[UTCTime "11:48:03"]
+[WhiteElo "1384"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+ 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/uzypfPpC"]
+[Date "2018.07.18"]
+[White "edvindracula"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.18"]
+[UTCTime "11:12:19"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-278"]
+[BlackRatingDiff "+152"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Nf3 e6 6. Nc3 Bb4 7. a3 Bxc3+ 8. bxc3 c6 9. Bd3 N8d7 10. O-O Nf6 11. e5 Nfd5 12. c4 Nc3 13. Qb3 Nba4 14. Bd2 Qb6 15. Bc2 Qxb3 16. Bxb3 b5 17. Bxa4 Nxa4 18. cxb5 cxb5 19. Bb4 Bb7 20. Ne1 Rc8 21. f4 Nb2 22. g4 h5 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/3MCPYHKB"]
+[Date "2018.07.18"]
+[White "cmrade"]
+[Black "Baifox"]
+[Result "1-0"]
+[UTCDate "2018.07.18"]
+[UTCTime "11:03:59"]
+[WhiteElo "1500"]
+[BlackElo "1523"]
+[WhiteRatingDiff "+51"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Be7 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 O-O 8. e5 c5 9. Qd1 Ng4 10. Qxg4 d5 11. Qd1 dxc4 12. O-O Qd4 13. Qxd4 cxd4 14. Nd5 Bc5 15. Bg5 Bf5 16. c3 d3 17. Be7 Rfc8 18. Bxc5 Rxc5 19. Ne7+ Kf8 20. Nxf5 Rxe5 21. Nd6 b5 22. a4 bxa4 23. Nxc4 Re4 24. Ne3 d2 25. h3 Rb8 26. b4 axb3 27. Rab1 a5 28. Rfd1 Ra4 29. Rxd2 b2 30. Rdxb2 Rxb2 31. Rxb2 g6 32. Rb8+ Kg7 33. Ra8 Ra1+ 34. Kh2 a4 35. Kg3 a3 36. Nc2 Rc1 37. Nxa3 Rxc3+ 38. Kh2 h5 39. Nb5 Rc1 40. Nd6 f5 41. f4 h4 42. Ra7+ Kh6 43. Nf7+ Kh5 44. Ng5 1-0
+
+
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/mco3oeEY"]
+[Date "2018.07.18"]
+[White "TheRatz"]
+[Black "cmrade"]
+[Result "0-1"]
+[UTCDate "2018.07.18"]
+[UTCTime "10:51:24"]
+[WhiteElo "1292"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B01"]
+[Termination "Time forfeit"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 Bg4 5. Be2 e6 6. h3 Bxf3 7. Bxf3 c6 8. O-O Nf6 9. d3 Bd6 10. Bg5 O-O 11. Ne4 Be7 12. Qd2 Nxe4 13. Bxe7 Qxe7 14. Bxe4 Rd8 15. a3 Nd7 16. b4 a6 17. c4 Ne5 18. f4 Nxc4 19. Qc3 Nd6 20. Rad1 Nb5 21. Qb2 f5 22. Bf3 Rd4 23. Be2 g6 24. Rfe1 Rad8 25. Bf1 Rxf4 26. Qe5 Rfd4 0-1
+
+
+[Event "Rated Correspondence game"]
+[Site "https://lichess.org/5FjyRwaw"]
+[Date "2018.07.13"]
+[White "cmrade"]
+[Black "MESVI"]
+[Result "0-1"]
+[UTCDate "2018.07.13"]
+[UTCTime "20:26:06"]
+[WhiteElo "1500"]
+[BlackElo "1511"]
+[WhiteRatingDiff "-60"]
+[BlackRatingDiff "+14"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B02"]
+[Termination "Normal"]
+
+1. e4 Nf6 2. Nc3 e6 3. d4 Be7 4. e5 Nd5 5. Nxd5 exd5 6. Bg5 Bxg5 7. Nf3 Bh6 8. g3 O-O 9. Bh3 d6 10. Bxc8 Qxc8 11. exd6 Qe8+ 12. Qe2 Qc6 13. dxc7 Re8 14. Qxe8+ Qxe8+ 15. Ne5 f6 16. c8=Q Qxc8 17. Nf3 Qe8+ 0-1
+
+
