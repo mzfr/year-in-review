@@ -1,7 +1,9 @@
+*.csv
+*.json
 *.pgn
 *.tcx
 *.csv
 Takeout/
 youtube/
 *.zip
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
