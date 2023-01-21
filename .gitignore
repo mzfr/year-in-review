@@ -7,3 +7,6 @@ Takeout/
 youtube/
 *.zip
 .ipynb_checkpoints/*
+*.png
+*.html
+*.jpg

@@ -10,3 +10,5 @@ To export your data follow these steps:
 - Open that config file and paste your `client_id` and `client_secret`.
 - Then just run `python export_trakt.py` to export movie data
     - `python export_trakt.py -t shows` to export TV show data
+
+- Using this(https://github.com/glensc/python-pytrakt) trakt package
